@@ -1,8 +1,7 @@
 ---
 permalink: /
-layout: home
+layout: page
 title: Welcome
-list_title: My blog posts
 ---
 
 Hi, I am Alex Falcon. I am a Post-doc researcher at the [University of Udine](https://www.uniud.it/it) ([AI Lab](http://ailab.uniud.it/)). I completed my PhD in Computer Science, Mathematics and Physics, jointly held at [Fondazione Bruno Kessler](https://www.fbk.eu/it/) ([Technology of Vision - TeV](https://tev.fbk.eu/)) and University of Udine, under the supervision of [Oswald Lanz](https://www.unibz.it/it/faculties/engineering/academic-staff/person/46208-oswald-lanz) (Free University of Bolzano) and [Giuseppe Serra](https://people.uniud.it/page/giuseppe.serra) (University of Udine). My main research focus is currently focused towards multimedia, video and language understanding, and deep learning. Before that, I completed my Bachelor's and Master's degree in Computer Science at the University of Udine. Specifically, during my Master's I started working with AI, machine learning, and deep learning with a focus on Predictive Maintenance.
