@@ -11,7 +11,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 **News**
 * _2023_
   * March, 13th 2023: I successfully defended my PhD thesis _cum laude_!
-  * one paper accepted at Multimedia Tools and Applications!
+  * [one paper](https://link.springer.com/article/10.1007/s11042-023-14333-0) accepted at Multimedia Tools and Applications! [code](https://github.com/aranciokov/MT-VideoQA)
 * _2022_
   * one paper accepted as an Oral at AIABI@AIxIA 2022!
   * [one paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001592) accepted at Computers in Industry! [code](https://github.com/aranciokov/NTM-For-RULEstimation)
