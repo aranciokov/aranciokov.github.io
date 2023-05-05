@@ -10,17 +10,17 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
-  * March, 13th 2023: I successfully defended my PhD thesis _cum laude_!
-  * [one paper](https://link.springer.com/article/10.1007/s11042-023-14333-0) accepted at Multimedia Tools and Applications! [code](https://github.com/aranciokov/MT-VideoQA)
+  * March, 13th 2023: I successfully defended my [PhD thesis](https://github.com/aranciokov/aranciokov.github.io/blob/master/PhD_thesis-3.pdf) _cum laude_!
+  * [one paper](https://link.springer.com/article/10.1007/s11042-023-14333-0) accepted at **Multimedia Tools and Applications**! [code](https://github.com/aranciokov/MT-VideoQA)
 * _2022_
   * one paper accepted as an Oral at AIABI@AIxIA 2022!
-  * [one paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001592) accepted at Computers in Industry! [code](https://github.com/aranciokov/NTM-For-RULEstimation)
-  * [one paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548365) accepted as an Oral at ACM MM 2022! [code](https://github.com/aranciokov/FSMMDA_VideoRetrieval)
+  * [one paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001592) accepted at **Computers in Industry**! [code](https://github.com/aranciokov/NTM-For-RULEstimation)
+  * [one paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548365) accepted as an Oral at **ACM MM 2022**! [code](https://github.com/aranciokov/FSMMDA_VideoRetrieval)
   * I presented two talks at University of Bolzano: "Data-driven approaches for the Remaining Useful Life Estimation problem" and "Learning video retrieval models with relevance-aware online mining"
   * I was featured in the [FBK Magazine](https://magazine.fbk.eu/it/news/un-riconoscimento-internazionale-per-la-comprensione-semantica-di-video/) (_italian_)!
-  * [our solution (report)](https://arxiv.org/abs/2206.10903) got 1st place in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2022!
+  * [our solution (report)](https://arxiv.org/abs/2206.10903) got **1st place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2022!
   * I took part into the fantastic International Computer Vision Summer School (ICVSS) in Scicli, Sicily and presented a [poster](https://github.com/aranciokov/aranciokov.github.io/blob/master/poster_ICVSS-1.pdf) titled "Relevance-aware Online Mining for Video Retrieval"!
-  * [one paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531395) accepted as an Oral at ICMR 2022! [code](https://github.com/aranciokov/RelevanceMargin-ICMR22)
+  * [one paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531395) accepted as an Oral at **ICMR 2022**! [code](https://github.com/aranciokov/RelevanceMargin-ICMR22)
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-031-06433-3_16) accepted as an Oral at ICIAP 2021! [code](https://github.com/aranciokov/ranp)
   * I presented the talk "Data-driven approaches for the remaining useful life estimation problem" at FBK!
 * _2021_
