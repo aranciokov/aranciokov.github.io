@@ -10,6 +10,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
+  * one paper accepted at ICIAP 2023!
+  * [our solution (report)](https://arxiv.org/abs/2306.15445), trained with only 25\% of the data, got **3rd place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2023!
   * I am part of the local organization committee for [ICIAP 2023](https://iciap2023.org/)!
   * I delivered a seminar on "Deep Learning for Multimedia understanding" as the speaker at University of Udine!
   * I am part of the local organization committee for the [2nd edition of the European Summer School on Quantum AI](http://eqai.eu/)!
