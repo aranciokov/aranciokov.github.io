@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
+  * one paper accepted at MMIR@ACM MM 2023!
   * one paper accepted at ICIAP 2023!
   * [our solution (report)](https://arxiv.org/abs/2306.15445), trained with only 25\% of the data, got **3rd place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2023!
   * I am part of the local organization committee for [ICIAP 2023](https://iciap2023.org/)!
@@ -41,3 +42,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-030-39905-4_7) accepted at IRCDL 2019!
   * October 2019: I started my PhD under the supervision of Oswald Lanz and Giuseppe Serra!
   * July 2019: I successfully completed the Master's Degree in Computer Science _cum laude_!
+
+**Service**
+* _Proceedings Chair_: [IRCDL 2023](https://ceur-ws.org/Vol-3365/)
+* _Local Organization Chair_: [EQAI 2023](http://eqai.eu/), [ICIAP 2023](https://iciap2023.org/), [AIxIA 2022](https://aixia2022.uniud.it/)
+* _Organizer_: [VIQA 2020](https://sites.google.com/view/viqa2020)/[VTIUR 2020](https://sites.google.com/view/vtiur2020)
+* _Journal Reviewing_: IJCV, IEEE TMM, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.
+* _Conference Reviewing_: ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.
+* _Co-Supervision_: 3 Bachelor and 4 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
