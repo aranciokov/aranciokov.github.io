@@ -10,7 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
-  * one paper accepted at MMIR@ACM MM 2023!
+  * one paper accepted at MMIR@**ACM MM 2023** and one paper accepted at CV4Metaverse@**ICCV 2023**!
   * one paper accepted at ICIAP 2023!
   * [our solution (report)](https://arxiv.org/abs/2306.15445), trained with only 25\% of the data, got **3rd place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2023!
   * I am part of the local organization committee for [ICIAP 2023](https://iciap2023.org/)!
@@ -19,7 +19,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   * March, 13th 2023: I successfully defended my [PhD thesis](https://github.com/aranciokov/aranciokov.github.io/blob/master/PhD_thesis-3.pdf) _cum laude_!
   * [one paper](https://link.springer.com/article/10.1007/s11042-023-14333-0) accepted at **Multimedia Tools and Applications**! [code](https://github.com/aranciokov/MT-VideoQA)
 * _2022_
-  * one paper accepted as an Oral at AIABI@AIxIA 2022!
+  * [one paper (pdf)](https://ceur-ws.org/Vol-3463/paper2.pdf) accepted as an Oral at AIABI@AIxIA 2022!
   * [one paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001592) accepted at **Computers in Industry**! [code](https://github.com/aranciokov/NTM-For-RULEstimation)
   * [one paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548365) accepted as an Oral at **ACM MM 2022**! [code](https://github.com/aranciokov/FSMMDA_VideoRetrieval)
   * I delivered two talks at University of Bolzano: "Data-driven approaches for the Remaining Useful Life Estimation problem" and "Learning video retrieval models with relevance-aware online mining"
