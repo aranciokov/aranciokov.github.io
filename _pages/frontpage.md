@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
+  * one paper accepted at **MMM 2024**!
   * one paper accepted at [MMIR@**ACM MM 2023**](https://dl.acm.org/doi/abs/10.1145/3606040.3617445) and one paper accepted at [CV4Metaverse@**ICCV 2023**](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html)!
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16) accepted at ICIAP 2023!
   * [our solution (report)](https://arxiv.org/abs/2306.15445), trained with only 25\% of the data, got **3rd place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2023!
