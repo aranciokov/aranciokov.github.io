@@ -10,8 +10,9 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2023_
-  * one paper accepted at **MMM 2024**!
-  * one paper accepted at [MMIR@**ACM MM 2023**](https://dl.acm.org/doi/abs/10.1145/3606040.3617445) and one paper accepted at [CV4Metaverse@**ICCV 2023**](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html)!
+  * one paper accepted as an Oral at **MMM 2024**! [code by Ali](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)
+  * one paper accepted at [MMIR@**ACM MM 2023**](https://dl.acm.org/doi/abs/10.1145/3606040.3617445) and one paper accepted at [CV4Metaverse@**ICCV 2023**](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html)! Codebases by Ali: [code1](https://github.com/aliabdari/Metaverse_Retrieval) [code2](https://github.com/aliabdari/FArMARe)
+  * I had a great experience at the **[ELLIS Summer School on Large-Scale AI for Research and Industry](https://www.ellis.unimore.it/summer-school/)** in Modena, Italy!
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16) accepted at ICIAP 2023!
   * [our solution (report)](https://arxiv.org/abs/2306.15445), trained with only 25\% of the data, got **3rd place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2023!
   * I am part of the local organization committee for [ICIAP 2023](https://iciap2023.org/)!
@@ -26,7 +27,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   * I delivered two talks at University of Bolzano: "Data-driven approaches for the Remaining Useful Life Estimation problem" and "Learning video retrieval models with relevance-aware online mining"
   * I was featured in the [FBK Magazine](https://magazine.fbk.eu/it/news/un-riconoscimento-internazionale-per-la-comprensione-semantica-di-video/) (_italian_)!
   * [our solution (report)](https://arxiv.org/abs/2206.10903) got **1st place** in the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge @ CVPR 2022!
-  * I attended the fantastic **International Computer Vision Summer School (ICVSS)** in Scicli, Italy and presented a [poster](https://github.com/aranciokov/aranciokov.github.io/blob/master/poster_ICVSS-1.pdf) titled "Relevance-aware Online Mining for Video Retrieval"!
+  * I attended the fantastic **[International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2022/)** in Scicli, Italy and presented a [poster](https://github.com/aranciokov/aranciokov.github.io/blob/master/poster_ICVSS-1.pdf) titled "Relevance-aware Online Mining for Video Retrieval"!
   * [one paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531395) accepted as an Oral at **ICMR 2022**! [code](https://github.com/aranciokov/RelevanceMargin-ICMR22)
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-031-06433-3_16) accepted as an Oral at ICIAP 2021! [code](https://github.com/aranciokov/ranp)
   * I delivered a seminar on "Data-driven approaches for the remaining useful life estimation problem" as the speaker at FBK!
