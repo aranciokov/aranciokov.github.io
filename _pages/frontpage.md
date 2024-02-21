@@ -9,8 +9,10 @@ Hi, I am Alex Falcon. I am a Post-doc researcher at the [University of Udine](ht
 E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google.com/citations?user=sHPhexYAAAAJ&hl=it) / [Github](https://github.com/aranciokov) / [LinkedIn](https://www.linkedin.com/in/alex-falcon-9b1a231a3) / [CV](https://github.com/aranciokov/aranciokov.github.io/blob/master/CV-1.pdf)
 
 **News**
+* _2024_
+  * one paper accepted as an Oral at [IRCDL 2024](https://ceur-ws.org/Vol-3643/paper17.pdf)!
 * _2023_
-  * one paper accepted as an Oral at **MMM 2024**! [code by Ali](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)
+  * one paper accepted as an Oral at [**MMM 2024**](https://link.springer.com/chapter/10.1007/978-3-031-53311-2_35)! [code by Ali](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)
   * one paper accepted at [MMIR@**ACM MM 2023**](https://dl.acm.org/doi/abs/10.1145/3606040.3617445) and one paper accepted at [CV4Metaverse@**ICCV 2023**](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html)! Codebases by Ali: [code1](https://github.com/aliabdari/Metaverse_Retrieval) [code2](https://github.com/aliabdari/FArMARe)
   * I had a great experience at the **[ELLIS Summer School on Large-Scale AI for Research and Industry](https://www.ellis.unimore.it/summer-school/)** in Modena, Italy!
   * [one paper](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16) accepted at ICIAP 2023!
