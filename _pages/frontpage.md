@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2024_
+  * I am a guest editor for the **Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language** at **ACM TOMM**! Check the [call for papers](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf)! (deadline: June 30, 2024)
   * one paper accepted as an Oral at [IRCDL 2024](https://ceur-ws.org/Vol-3643/paper17.pdf)!
 * _2023_
   * one paper accepted as an Oral at [**MMM 2024**](https://link.springer.com/chapter/10.1007/978-3-031-53311-2_35)! [code by Ali](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)
@@ -52,5 +53,5 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 * _Local Organization Chair_: [EQAI 2023](http://eqai.eu/), [ICIAP 2023](https://iciap2023.org/), [AIxIA 2022](https://aixia2022.uniud.it/)
 * _Organizer_: [VIQA 2020](https://sites.google.com/view/viqa2020)/[VTIUR 2020](https://sites.google.com/view/vtiur2020)
 * _Journal Reviewing_: IJCV, IEEE TMM, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.
-* _Conference Reviewing_: ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.
+* _Conference Reviewing_: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.
 * _Co-Supervision_: 3 Bachelor and 4 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
