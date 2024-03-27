@@ -10,6 +10,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 **News**
 * _2024_
+  * We are organizing a challenge on [Metaverse Apartment Retrieval Challenge](http://ailab.uniud.it/apartment-recommendation-challenge/)!
+  * I am part of the local organization committee for the [3rd edition of the European Summer School on Quantum AI](http://eqai.eu/)!
   * I am a guest editor for the **Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language** at **ACM TOMM**! Check the [call for papers](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf)! (deadline: June 30, 2024)
   * one paper accepted as an Oral at [IRCDL 2024](https://ceur-ws.org/Vol-3643/paper17.pdf)!
 * _2023_
