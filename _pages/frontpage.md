@@ -73,7 +73,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5><em>Topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="50%" height="auto"/>
-<p><b>TL;DR:</b>: State-of-the-art video retrieval systems are obtained with contrastive learning techniques. However, contrastive learning techniques enforce constraints at training time which neglect that multiple videos may be relevant for the same caption, and vice versa. In this line of research, we focus on the importance of introducing semantic knowledge into the training process to overcome these limitations. The results obtained confirm our observations and hypotheses, and the learning strategies we proposed effectively overcome them (e.g., from about 36% nDCG to almost 60% on the challenging EPIC-Kitchens-100 dataset). </p>
+<p><b>TL;DR</b>: Text-video retrieval is a task requiring to rank a collection of videos based on their relevance to a user textual query, with low ranks representing highly relevant videos and vice versa. State-of-the-art video retrieval systems are obtained with contrastive learning techniques. However, contrastive learning techniques enforce constraints at training time which neglect that multiple videos may be relevant for the same caption, and vice versa. In this line of research, we focus on the importance of introducing semantic knowledge into the training process to overcome these limitations. The results obtained confirm our observations and hypotheses, and the learning strategies we proposed effectively overcome them (e.g., from about 36% nDCG to almost 60% on the challenging EPIC-Kitchens-100 dataset). </p>
 
 <h5>Selected publications/endeavors</h5>
 
@@ -105,7 +105,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
-<h3>Video Question Answering <i class="fa-solid fa-person-circle-question"></i> <i class="fa-solid fa-photo-film"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-circle-exclamation"></i></h3>
+<h3>Video Question Answering <i class="fa-solid fa-photo-film"></i> <i class="fa-solid fa-person-circle-question"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-circle-exclamation"></i></h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/mtap_vqa.png" alt="Overview of the algorithm" width="50%" height="auto">
