@@ -69,16 +69,16 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h2>Main projects and lines of research</h2>
 
-<h3>Text-Video Retrieval <i class="fa-regular fa-file"></i><i class="fa-solid fa-arrow-right"></i><i class="fa-solid fa-video"></i></h3>
+<h3>Text-Video Retrieval <i class="fa-regular fa-file"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-video"></i></h3>
 <h5><em>Topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="50%" height="auto"/>
-<p><b>TL;DR:</b>: State-of-the-art video retrieval systems are obtained with contrastive learning techniques. These leverage video-caption annotated pairs to automatically learn models capable of ranking videos based on their relevance to input textual queries. However, contrastive learning techniques enforce constraints at training time which neglect that multiple videos may be relevant for the same caption, and vice versa. In this line of research, we focus on the importance of introducing semantic knowledge into the training process to overcome these limitations. The results obtained confirm our observations and hypotheses, and the learning strategies we proposed effectively overcome them (e.g., from about 36% nDCG to almost 60% on the challenging EPIC-Kitchens-100 dataset). </p>
+<p><b>TL;DR:</b>: State-of-the-art video retrieval systems are obtained with contrastive learning techniques. However, contrastive learning techniques enforce constraints at training time which neglect that multiple videos may be relevant for the same caption, and vice versa. In this line of research, we focus on the importance of introducing semantic knowledge into the training process to overcome these limitations. The results obtained confirm our observations and hypotheses, and the learning strategies we proposed effectively overcome them (e.g., from about 36% nDCG to almost 60% on the challenging EPIC-Kitchens-100 dataset). </p>
 
 <h6>Selected publications/endeavors</h6>
 
 <ol>
-  <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b><br/>PhD Thesis, 2023.<br/><a href="https://air.uniud.it/bitstream/11390/1252364/2/PhD_thesis-4.pdf">[pdf]</a></li>
+  <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b>. PhD Thesis, 2023. <a href="https://air.uniud.it/bitstream/11390/1252364/2/PhD_thesis-4.pdf">[pdf]</a></li>
   <li><em>A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz. <b>ACM MM 2022.</b> <a href="https://arxiv.org/abs/2208.02080">[pdf]</a></li>
   <li><em>UniUD-FBK-UB-UniBZ Submission to the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge 2022. (ranked <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto"> <b>ranked 1st</b> <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto">)</em><br/><b>A. Falcon</b>, G. Serra, S. Escalera, O. Lanz. <b>EPIC@CVPR 2022.</b> <a href="https://arxiv.org/abs/2206.10903">[pdf]</a></li>
   <li><em>Relevance-based margin for contrastively-trained video retrieval models.</em><br/><b>A. Falcon</b>, S. Sudhakaran, G. Serra, S. Escalera, O. Lanz. <b>ACM ICMR 2022.</b><a href="https://dl.acm.org/doi/abs/10.1145/3512527.3531395">[pdf]</a></li>
@@ -105,7 +105,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
-<h3>Video Question Answering <i class="fa-solid fa-clipboard-question"></i></h3>
+<h3>Video Question Answering <i class="fa-solid fa-person-circle-question"></i> <i class="fa-solid fa-photo-film"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-circle-exclamation"></i></h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/mtap_vqa.png" alt="Overview of the algorithm" width="50%" height="auto">
@@ -120,11 +120,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
-<h3>Remaining Useful Life Estimation <i class="fa-solid fa-paper-plane"></i></h3>
+<h3>Remaining Useful Life Estimation <i class="fa-solid fa-paper-plane"></i> <i class="fa-solid fa-heart-crack"></i> <i class="fa-solid fa-arrow-trend-down"></i> </h3>
 <h5><em>topics: predictive maintenance</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/aiabi.png" alt="Overview of the algorithm" width="50%" height="auto">
-<p><b>TL;DR</b>: We deal with the problem of estimating the remaining useful life (RUL) of mechanical engines by using neural sequence models. In particular, we introduced to this field of research a neural model inspired from Neural Turing Machines.</p>
+<p><b>TL;DR</b>: We deal with the problem of estimating the remaining useful life (RUL) of mechanical engines (aeroplanes, in particular) by using neural sequence models. We introduced to this field of research a neural model inspired from Neural Turing Machines and evaluated them under different scenarios. Experimental results confirm their robustness and precision compared to several neural sequence models.</p>
 
 
 <h6>Selected publications/endeavors</h6>
@@ -147,14 +147,14 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li><em>Conference Reviewing</em>: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
     <ul>
-      <li>Gallegos Carvajal Ian Marco, MSc. <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
-      <li>Rodaro Edoardo, BSc. <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
-      <li>Bianchi Carlo, MSc. <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
-      <li>Bruni Pierfrancesco, MSc. <em>Circulant matrices lead to an improved baseline for question-driven video moment localization</em>. 2022. (published at <a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16">IRCDL 2023</a>!) </li>
-      <li>De Martin Federica, MSc. <em>Ricerca di un nuovo modello video e transfer learning nell’ambito del Multi-Instance video-text retrieval</em>. 2022. </li>
-      <li>De Reggi Paolo, MSc. <em>Generazione automatica di domande e risposte per il problema del video question answering</em>. 2021. </li>
-      <li>Ferroli Daniele, BSc. <em>Implementazione di un sistema di Video Question Answering</em>. 2020. </li>
-      <li>Rosso Giovanni, BSc. <em>Utilizzo di reti neurali convolutive per la manutenzione predittiva</em>. 2020. </li>
+      <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
+      <li>Rodaro Edoardo, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
+      <li>Bianchi Carlo, MSc <i class="fa-solid fa-graduation-cap"></i> <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
+      <li>Bruni Pierfrancesco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Circulant matrices lead to an improved baseline for question-driven video moment localization</em>. 2022. (published at <a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16">IRCDL 2023</a>!) </li>
+      <li>De Martin Federica, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Ricerca di un nuovo modello video e transfer learning nell’ambito del Multi-Instance video-text retrieval</em>. 2022. </li>
+      <li>De Reggi Paolo, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Generazione automatica di domande e risposte per il problema del video question answering</em>. 2021. </li>
+      <li>Ferroli Daniele, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Implementazione di un sistema di Video Question Answering</em>. 2020. </li>
+      <li>Rosso Giovanni, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Utilizzo di reti neurali convolutive per la manutenzione predittiva</em>. 2020. </li>
     </ul>
   </li>
 </ul>
