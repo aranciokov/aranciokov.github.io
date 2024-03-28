@@ -75,7 +75,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="50%" height="auto"/>
 <p><b>TL;DR:</b>: State-of-the-art video retrieval systems are obtained with contrastive learning techniques. However, contrastive learning techniques enforce constraints at training time which neglect that multiple videos may be relevant for the same caption, and vice versa. In this line of research, we focus on the importance of introducing semantic knowledge into the training process to overcome these limitations. The results obtained confirm our observations and hypotheses, and the learning strategies we proposed effectively overcome them (e.g., from about 36% nDCG to almost 60% on the challenging EPIC-Kitchens-100 dataset). </p>
 
-<h6>Selected publications/endeavors</h6>
+<h5>Selected publications/endeavors</h5>
 
 <ol>
   <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b>. PhD Thesis, 2023. <a href="https://air.uniud.it/bitstream/11390/1252364/2/PhD_thesis-4.pdf">[pdf]</a></li>
@@ -91,10 +91,10 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/MMM24_overview.png" alt="Overview of the algorithm" width="50%" height="auto">
-<p><b>TL;DR:</b>: </p>
+<p><b>TL;DR</b>: Nowadays, multiple enticing experiences are available in the Metaverse. Actually, there are lots of them and it is difficult to find those which are relevant for the user. Can we formalize this as a ranking problem? We introduced and evaluated state-of-the-art techniques in various scenarios related to complex 3D scenes, composed of multiple furnished rooms (e.g., in apartments) or containing many multimedia items (e.g., paintings in museums) which can affect the relevance. </p>
 
 
-<h6>Selected publications/endeavors</h6>
+<h5>Selected publications/endeavors</h5>
 
 <ol>
   <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra. <b>IRCDL 2024.</b> <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">[pdf]</a></li>
@@ -109,12 +109,13 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/mtap_vqa.png" alt="Overview of the algorithm" width="50%" height="auto">
-<p><b>TL;DR:</b>: </p>
+<p><b>TL;DR</b>: Given a video and a question about its visual contents, can a model automatically provide the correct answer to that question? We investigated and introduced data augmentation techniques to achieve better accuracy while avoiding costly manual annotations, and proposed customized learning strategies leveraging the contents of the question itself. </p>
 
 
-<h6>Selected publications/endeavors</h6>
+<h5>Selected publications/endeavors</h5>
 <ol>
   <li><em>Video question answering supported by a multi-task learning objective.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz. <b>Multimedia Tools and Applications 82 (25), 38799-38826. 2023.</b> <a href="https://link.springer.com/article/10.1007/s11042-023-14333-0">[pdf]</a></li>
+  <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b>. PhD Thesis, 2023. <a href="https://air.uniud.it/bitstream/11390/1252364/2/PhD_thesis-4.pdf">[pdf]</a></li>
   <li><em>Data augmentation techniques for the video question answering task.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz. <b>EPIC@ECCV 2020.</b> <a href="https://arxiv.org/abs/2008.09849">[pdf]</a></li>
 </ol>
 
@@ -124,16 +125,16 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5><em>topics: predictive maintenance</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/aiabi.png" alt="Overview of the algorithm" width="50%" height="auto">
-<p><b>TL;DR</b>: We deal with the problem of estimating the remaining useful life (RUL) of mechanical engines (aeroplanes, in particular) by using neural sequence models. We introduced to this field of research a neural model inspired from Neural Turing Machines and evaluated them under different scenarios. Experimental results confirm their robustness and precision compared to several neural sequence models.</p>
+<p><b>TL;DR</b>: We deal with the problem of estimating the remaining useful life (RUL) of mechanical engines (aeroplanes, in particular) by using neural sequence models. The RUL can be seen as a measure of how long it will take for the device under analysis to reach a failure (or, a situation in which a failure is very likely). We introduced to this field of research a neural model inspired from Neural Turing Machines and evaluated them under different scenarios. Experimental results confirm their robustness and precision compared to several neural sequence models.</p>
 
 
-<h6>Selected publications/endeavors</h6>
+<h5>Selected publications/endeavors</h5>
 <ol>
   <li><em>Neural turing machines for the remaining useful life estimation problem.</em><br/><b>A. Falcon</b>, G. D’Agostino, O. Lanz, G. Brajnik, C. Tasso, G. Serra. <b>Computers in Industry 143, 103762. 2022.</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361522001592">[pdf]</a></li>
   <li><em>Estimating the Remaining Useful Life via Neural Sequence Models: a Comparative Study.</em><br/>G. D'Agostino, <b>A. Falcon</b>, O. Lanz, G. Brajnik, C. Tasso, G. Serra. <b>AIABI@AIxIA 2022.</b> <a href="https://air.uniud.it/bitstream/11390/1263145/1/paper2.pdf">[pdf]</a></li>
   <li><em>A Dual-Stream architecture based on Neural Turing Machine and Attention for the Remaining Useful Life Estimation problem.</em> <b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso.<br/><b>PHME 2020.</b> <a href="https://papers.phmsociety.org/index.php/phme/article/view/1227">[pdf]</a></li>
   <li><em>A neural turing machine-based approach to remaining useful life estimation.</em><br/><b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso. <b>ICPHM 2020.</b> <a href="https://ieeexplore.ieee.org/abstract/document/9187043/">[pdf]</a></li>
-  <li><em>Remaining Useful Life Estimation using LSTM Networks and Attentive mechanisms.</em><br/><b>A. Falcon</b><br/>MSc Thesis, 2019.</li>
+  <li><em>Remaining Useful Life Estimation using LSTM Networks and Attentive mechanisms.</em><br/><b>A. Falcon</b>. MSc Thesis, 2019.</li>
 </ol>
 
 
