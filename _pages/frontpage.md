@@ -75,11 +75,15 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <table border=none>
   <tr>
     <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="100%" height="auto">
+      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="100%" height="auto"/>
     </td>
     <td width=50%>
-    <p><b>TL;DR</b>: </p>
+      <p><b>TL;DR</b>: </p>
     </td>
+  </tr>
+  <tr>
+    <td width=50%>something</td>
+    <td width=50%>something</td>
   </tr>
 </table>
 
