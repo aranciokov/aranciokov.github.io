@@ -8,9 +8,9 @@ Hi, I am Alex Falcon. I am a Post-doc researcher at the [University of Udine](ht
 
 E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google.com/citations?user=sHPhexYAAAAJ&hl=it) / [Github](https://github.com/aranciokov) / [LinkedIn](https://www.linkedin.com/in/alex-falcon-9b1a231a3) / [CV](https://github.com/aranciokov/aranciokov.github.io/blob/master/CV-1.pdf)
 
-<h3>News <span class="fa-solid fa-bullhorn"></span></h3>
+<h3><span class="fa-solid fa-bullhorn"></span> News <span class="fa-solid fa-bullhorn"></span></h3>
 <ul>
-  <li>We are organizing a challenge on <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
+  <li>We are organizing a challenge on <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
   <li>I am part of the local organization committee for the <a href="http://eqai.eu/">3rd edition of the European Summer School on Quantum AI</a>!</li>
   <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
   <li>one paper accepted as an Oral at <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">IRCDL 2024</a>!</li>
@@ -69,10 +69,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h2>Projects and selected publications</h2>
 
-<h3>On Semantic Similarity in Text-Video Retrieval</h3>
+<h3>On Semantic Similarity in Text-Video Retrieval <i class="fa-solid fa-video"></i></h3>
 <h5><em>Topics: multimedia, cross-modal understanding, vision and language</em></h5>
-
-<h6>Selected publications/endeavors</h6>
 
 <table border=none>
   <tr>
@@ -80,45 +78,26 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="100%" height="auto">
     </td>
     <td width=50%>
-      <p><em>A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>ACM MM 2022.</b></p>
-    <p><b>TL;DR</b>: We propose a data augmentation technique for Text-Video Retrieval. It combines latent representations of videos (and captions) if they are a good fit (e.g., both display similar actions). No impact on inference speed, and it can be applied without changes to different modalities (video, text, but also audio, etc), consistently improving the performance on single-modalities (using HGR, about +4% nDCG, +6% mAP on EPIC-Kitchens-100) and multiple modalities (about +5% nDCG, +6% mAP on EPIC-Kitchens-100).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/fsmmda.png" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>UniUD-FBK-UB-UniBZ Submission to the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge 2022.</em><br/><b>A. Falcon</b>, G. Serra, S. Escalera, O. Lanz.<br/><b>EPIC@CVPR 2022.</b></p>
-    <p><b>TL;DR</b>: Our solution to the challenge <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto"> <b>ranked 1st</b> <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto">! It uses an ensemble of models trained with our techniques developed at ACM ICMR 2022 and ICIAP 2021. Notably, it achieves these results using only the available training data, avoiding the need for millions of additional egocentric video clips, as done by other competitors.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/ICMR22.png" alt="Overview of the algorithm" width="50%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>Relevance-based margin for contrastively-trained video retrieval models.</em><br/><b>A. Falcon</b>, S. Sudhakaran, G. Serra, S. Escalera, O. Lanz.<br/><b>ACM ICMR 2022.</b></p>
-    <p><b>TL;DR</b>: We propose a different training strategy for learning text-video retrieval models. It creates a relation between a parameter of the triplet loss function --- the margin, which is usually fixed and treated as hyperparameter --- and the input video-text data, essentially defining a 'relevance-based margin'. This removes the need for tuning the margin to obtain optimal results. Results show consistent improvements across three different neural architectures and two datasets.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/ICIAPext.png" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>Learning video retrieval models with relevance-aware online mining.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>ICIAP 2021.</b></p>
-    <p><b>TL;DR</b>: It is difficult to describe with a caption what happens in a video. Yet, standard procedures for learning text-video retrieval models assume that only the caption(s) paired to a video is valid for it. We hypothesize it limits semantics understanding. We propose a learning strategy (called RANP) which separates captions/videos into 'irrelevant' and 'relevant', varying the standard triplet loss function to take this into account. Results confirm the hypothesis, observing +23% nDCG and +8% mAP on EPIC-Kitchens-100, +6% on MSR-VTT.</p>
+    <p><b>TL;DR</b>: </p>
     </td>
   </tr>
 </table>
 
+<h6>Selected publications/endeavors</h6>
+
+<ol>
+  <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b><br/>PhD Thesis, 2023.</li>
+  <li><em>A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>ACM MM 2022.</b></li>
+  <li><em>UniUD-FBK-UB-UniBZ Submission to the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge 2022. (ranked <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto"> <b>ranked 1st</b> <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto">)</em><br/><b>A. Falcon</b>, G. Serra, S. Escalera, O. Lanz.<br/><b>EPIC@CVPR 2022.</b></li>
+  <li><em>Relevance-based margin for contrastively-trained video retrieval models.</em><br/><b>A. Falcon</b>, S. Sudhakaran, G. Serra, S. Escalera, O. Lanz.<br/><b>ACM ICMR 2022.</b></li>
+  <li><em>Learning video retrieval models with relevance-aware online mining.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>ICIAP 2021.</b></li>
+</ol>
 
 
-<h3>Ranking complex 3D scenes (Metaverses, Apartments)</h3>
+
+<h3>Ranking complex 3D scenes (Metaverses <i class="fa-solid fa-cube"></i>, Apartments <i class="fa-solid fa-house"></i>)</h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
-<h6>Selected publications/endeavors</h6>
 
 <table border=none>
   <tr>
@@ -126,36 +105,25 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/MMM24_overview.png" alt="Overview of the algorithm" width="100%" height="auto">
     </td>
     <td width=50%>
-      <p><em>A Language-based solution to enable Metaverse Retrieval.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>MMM 2024.</b></p>
-    <p><b>TL;DR</b>: .</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/farmare.png" alt="Overview of the algorithm" width="50%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>FArMARe: a Furniture-Aware Multi-task methodology for Recommending Apartments based on the user interests.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>CV4Metaverse@ICCV 2023.</b></p>
-    <p><b>TL;DR</b>: </p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/mmir.png" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>Metaverse Retrieval: Finding the Best Metaverse Environment via Language.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>MMIR@ACM MM 2023.</b></p>
-    <p><b>TL;DR</b>: </p>
+      <p><b>TL;DR</b>: .</p>
     </td>
   </tr>
 </table>
 
+<h6>Selected publications/endeavors</h6>
+
+<ol>
+  <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra.<br/><b>IRCDL 2024.</b></li>
+  <li><em>A Language-based solution to enable Metaverse Retrieval.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>MMM 2024.</b></li>
+  <li><em>FArMARe: a Furniture-Aware Multi-task methodology for Recommending Apartments based on the user interests.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>CV4Metaverse@ICCV 2023.</b></li>
+  <li><em>Metaverse Retrieval: Finding the Best Metaverse Environment via Language.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>MMIR@ACM MM 2023.</b></li>
+</ol>
 
 
-<h3>Video Question Answering</h3>
+
+<h3>Video Question Answering <i class="fa-solid fa-clipboard-question"></i></h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
-<h6>Selected publications/endeavors</h6>
 
 <table border=none>
   <tr>
@@ -163,74 +131,61 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/mtap_vqa.png" alt="Overview of the algorithm" width="100%" height="auto">
     </td>
     <td width=50%>
-      <p><em>Video question answering supported by a multi-task learning objective.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>Multimedia Tools and Applications 82 (25), 38799-38826. 2023.</b></p>
-    <p><b>TL;DR</b>: .</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/epic_eccv.png" alt="Overview of the algorithm" width="50%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>Data augmentation techniques for the video question answering task.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>EPIC@ECCV 2020.</b></p>
-    <p><b>TL;DR</b>: </p>
+      <p><b>TL;DR</b>: </p>
     </td>
   </tr>
 </table>
 
+<h6>Selected publications/endeavors</h6>
+<ol>
+  <li><em>Video question answering supported by a multi-task learning objective.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>Multimedia Tools and Applications 82 (25), 38799-38826. 2023.</b></li>
+  <li><em>Data augmentation techniques for the video question answering task.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz.<br/><b>EPIC@ECCV 2020.</b></li>
+</ol>
 
 
-<h3>Remaining Useful Life Estimation</h3>
+
+<h3>Remaining Useful Life Estimation <i class="fa-solid fa-paper-plane"></i></h3>
 <h5><em>topics: predictive maintenance</em></h5>
 
-<h6>Selected publications/endeavors</h6>
-
 <table border=none>
- <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/compind.jpg" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>Neural turing machines for the remaining useful life estimation problem.</em><br/><b>A. Falcon</b>, G. D’Agostino, O. Lanz, G. Brajnik, C. Tasso, G. Serra.<br/><b>Computers in Industry 143, 103762. 2022.</b></p>
-    <p><b>TL;DR</b>: .</p>
-    </td>
-  </tr>
  <tr>
     <td width=50%>
       <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/aiabi.png" alt="Overview of the algorithm" width="100%" height="auto">
     </td>
     <td width=50%>
-      <p><em>Estimating the Remaining Useful Life via Neural Sequence Models: a Comparative Study.</em><br/>G. D'Agostino, <b>A. Falcon</b>, O. Lanz, G. Brajnik, C. Tasso, G. Serra.<br/><b>AIABI@AIxIA 2022.</b></p>
-    <p><b>TL;DR</b>: .</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/phme.png" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>A Dual-Stream architecture based on Neural Turing Machine and Attention for the Remaining Useful Life Estimation problem.</em><br/><b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso.<br/><b>PHME 2020.</b></p>
-    <p><b>TL;DR</b>: .</p>
-    </td>
-  </tr>
-  <tr>
-    <td width=50%>
-      <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/icphm.png" alt="Overview of the algorithm" width="100%" height="auto">
-    </td>
-    <td width=50%>
-      <p><em>A neural turing machine-based approach to remaining useful life estimation.</em><br/><b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso.<br/><b>ICPHM 2020.</b></p>
-    <p><b>TL;DR</b>: .</p>
+      <p><b>TL;DR</b>: We deal with the problem of estimating the remaining useful life (RUL) of mechanical engines by using neural sequence models. In particular, we introduced to this field of research a neural model inspired from Neural Turing Machines.</p>
     </td>
   </tr>
 </table>
 
+<h6>Selected publications/endeavors</h6>
+<ol>
+  <li><em>Neural turing machines for the remaining useful life estimation problem.</em><br/><b>A. Falcon</b>, G. D’Agostino, O. Lanz, G. Brajnik, C. Tasso, G. Serra.<br/><b>Computers in Industry 143, 103762. 2022.</b></li>
+  <li><em>Estimating the Remaining Useful Life via Neural Sequence Models: a Comparative Study.</em><br/>G. D'Agostino, <b>A. Falcon</b>, O. Lanz, G. Brajnik, C. Tasso, G. Serra.<br/><b>AIABI@AIxIA 2022.</b></li>
+  <li><em>A Dual-Stream architecture based on Neural Turing Machine and Attention for the Remaining Useful Life Estimation problem.</em><br/><b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso.<br/><b>PHME 2020.</b></li>
+  <li><em>A neural turing machine-based approach to remaining useful life estimation.</em><br/><b>A. Falcon</b>, G. D'Agostino, G. Serra, G. Brajnik, C. Tasso.<br/><b>ICPHM 2020.</b></li>
+  <li><em>Remaining Useful Life Estimation using LSTM Networks and Attentive mechanisms.</em><br/><b>A. Falcon</b><br/>MSc Thesis, 2019.</li>
+</ol>
 
 
 
-**Service**
-* _Proceedings Chair_: [IRCDL 2023](https://ceur-ws.org/Vol-3365/)
-* _Local Organization Chair_: [EQAI 2024, 2023](http://eqai.eu/), [ICIAP 2023](https://iciap2023.org/), [AIxIA 2022](https://aixia2022.uniud.it/)
-* _Organizer_: [VIQA 2020](https://sites.google.com/view/viqa2020)/[VTIUR 2020](https://sites.google.com/view/vtiur2020)
-* _Journal Reviewing_: IJCV, IEEE TMM, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.
-* _Conference Reviewing_: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.
-* _Co-Supervision_: 3 Bachelor and 4 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
+<h2>Service</h2>
+<ul>
+  <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
+  <li><em>Local Organization Chair</em>: <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
+  <li><em>Organizer</em>: <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
+  <li><em>Conference Reviewing</em>: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
+  <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
+    <ul>
+      <li>Gallegos Carvajal Ian Marco, MSc. <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
+      <li>Rodaro Edoardo, BSc. <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
+      <li>Bianchi Carlo, MSc. <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
+      <li>Bruni Pierfrancesco, MSc. <em>Circulant matrices lead to an improved baseline for question-driven video moment localization</em>. 2022. (published at <a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_16">IRCDL 2023</a>!) </li>
+      <li>De Martin Federica, MSc. <em>Ricerca di un nuovo modello video e transfer learning nell’ambito del Multi-Instance video-text retrieval</em>. 2022. </li>
+      <li>De Reggi Paolo, MSc. <em>Generazione automatica di domande e risposte per il problema del video question answering</em>. 2021. </li>
+      <li>Ferroli Daniele, BSc. <em>Implementazione di un sistema di Video Question Answering</em>. 2020. </li>
+      <li>Rosso Giovanni, BSc. <em>Utilizzo di reti neurali convolutive per la manutenzione predittiva</em>. 2020. </li>
+    </ul>
+  </li>
+</ul>
