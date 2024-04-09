@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>one paper accepted as Poster at <b>ICMR 2024</b>!</li>
   <li>We are organizing a challenge on <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
   <li>I am part of the local organization committee for the <a href="http://eqai.eu/">3rd edition of the European Summer School on Quantum AI</a>!</li>
   <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
@@ -29,7 +30,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li>I delivered a seminar on "Deep Learning for Multimedia understanding" as the speaker at University of Udine!</li>
   <li>I am part of the local organization committee for the <a href="http://eqai.eu/"><b>2nd edition of the European Summer School on Quantum AI</b></a>!</li>
   <li>March, 13th 2023: I successfully defended my <a href="https://air.uniud.it/handle/11390/1252364"><b>PhD thesis</b></a> <em>cum laude</em>!</li>
-  <li>[one paper](https://link.springer.com/article/10.1007/s11042-023-14333-0) accepted at <b>Multimedia Tools and Applications</b>! <a href="https://github.com/aranciokov/MT-VideoQA">code</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11042-023-14333-0">one paper</a> accepted at <b>Multimedia Tools and Applications</b>! <a href="https://github.com/aranciokov/MT-VideoQA">code</a></li>
  </ul>
  <li><em>2022</em></li>
  <ul>
@@ -100,7 +101,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra. <b>IRCDL 2024.</b> <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">[pdf]</a></li>
   <li><em>A Language-based solution to enable Metaverse Retrieval.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>MMM 2024.</b> <a href="https://arxiv.org/abs/2312.14630">[pdf]</a></li>
   <li><em>FArMARe: a Furniture-Aware Multi-task methodology for Recommending Apartments based on the user interests.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>CV4Metaverse@ICCV 2023.</b> <a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html">[pdf]</a></li>
-  <li><em>Metaverse Retrieval: Finding the Best Metaverse Environment via Language.</em> A. Abdari, <b>A. Falcon</b>, G. Serra.<br/><b>MMIR@ACM MM 2023.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3606040.3617445">[pdf]</a></li>
+  <li><em>Metaverse Retrieval: Finding the Best Metaverse Environment via Language.</em> A. Abdari, <b>A. Falcon</b>, G. Serra. <b>MMIR@ACM MM 2023.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3606040.3617445">[pdf]</a></li>
 </ol>
 
 
