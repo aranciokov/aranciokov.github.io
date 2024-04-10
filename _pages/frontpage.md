@@ -88,7 +88,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
-<h3>Ranking complex 3D scenes (Metaverses <i class="fa-solid fa-cube"></i>, Apartments <i class="fa-solid fa-house"></i>)</h3>
+<h3>Ranking complex 3D scenes <i class="fa-regular fa-file"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-cube"></i></h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/MMM24_overview.png" alt="Overview of the algorithm" width="50%" height="auto">
