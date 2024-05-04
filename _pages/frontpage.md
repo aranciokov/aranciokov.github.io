@@ -10,9 +10,9 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>one paper accepted as Poster at <b>ICMR 2024</b>!</li>
-  <li>We are organizing a challenge on <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
-  <li>I am part of the local organization committee for the <a href="http://eqai.eu/">3rd edition of the European Summer School on Quantum AI</a>!</li>
+  <li>one paper accepted as Poster at <b>ACM ICMR 2024</b>! See you at Phuket, Thailand!</li>
+  <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
+  <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
   <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
   <li>one paper accepted as an Oral at <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">IRCDL 2024</a>!</li>
  </ul>
