@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
   <li>one paper accepted as Poster at <b>ACM ICMR 2024</b>! See you at Phuket, Thailand!</li>
   <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
   <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
