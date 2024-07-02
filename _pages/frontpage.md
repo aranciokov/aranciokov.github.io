@@ -10,8 +10,9 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
   <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
-  <li>one paper accepted as Poster at <b>ACM ICMR 2024</b>! See you at Phuket, Thailand!</li>
+  <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you at Phuket, Thailand!</li>
   <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
   <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
   <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
@@ -80,6 +81,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>Improving semantic video retrieval models by training with a relevance-aware online mining strategy.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz. <b>Computer Vision and Image Understanding 245, 104035. 2024.</b> <a href="https://www.sciencedirect.com/science/article/pii/S1077314224001164">[pdf]</a></li>
   <li><em>Semantics for vision-and-language understanding.</em><br/><b>A. Falcon</b>. PhD Thesis, 2023. <a href="https://air.uniud.it/bitstream/11390/1252364/2/PhD_thesis-4.pdf">[pdf]</a></li>
   <li><em>A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval.</em><br/><b>A. Falcon</b>, G. Serra, O. Lanz. <b>ACM MM 2022.</b> <a href="https://arxiv.org/abs/2208.02080">[pdf]</a></li>
   <li><em>UniUD-FBK-UB-UniBZ Submission to the EPIC-Kitchens-100 Multi-Instance Retrieval Challenge 2022. (ranked <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto"> <b>ranked 1st</b> <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/trophy.png" alt="(trophy emoji)" width="16px" height="auto">)</em><br/><b>A. Falcon</b>, G. Serra, S. Escalera, O. Lanz. <b>EPIC@CVPR 2022.</b> <a href="https://arxiv.org/abs/2206.10903">[pdf]</a></li>
@@ -99,6 +101,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>AdOCTeRA: Adaptive Optimization Constraints for improved Text-guided Retrieval of Apartments.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2024.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039">[pdf]</a></li>
   <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra. <b>IRCDL 2024.</b> <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">[pdf]</a></li>
   <li><em>A Language-based solution to enable Metaverse Retrieval.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>MMM 2024.</b> <a href="https://arxiv.org/abs/2312.14630">[pdf]</a></li>
   <li><em>FArMARe: a Furniture-Aware Multi-task methodology for Recommending Apartments based on the user interests.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>CV4Metaverse@ICCV 2023.</b> <a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/html/Abdari_FArMARe_a_Furniture-Aware_Multi-Task_Methodology_for_Recommending_Apartments_Based_on_ICCVW_2023_paper.html">[pdf]</a></li>
@@ -144,9 +147,9 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h2>Service</h2>
 <ul>
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
-  <li><em>Local Organization Chair</em>: <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
-  <li><em>Organizer</em>: <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
-  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
+  <li><em>Local Organization Chair</em>: <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
+  <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
   <li><em>Conference Reviewing</em>: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
     <ul>
