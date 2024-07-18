@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>EQAI 2024 was featured on a <a href="https://www.udinetoday.it/cronaca/uniud-scuola-estiva-ai-quantum-computing.html">local newspaper</a>! Everything is ready for this September!</li>
   <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
   <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
   <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you at Phuket, Thailand!</li>
@@ -149,6 +150,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
   <li><em>Local Organization Chair</em>: <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
   <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+  <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
   <li><em>Conference Reviewing</em>: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
