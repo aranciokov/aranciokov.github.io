@@ -10,6 +10,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I was nominated <b>Outstanding Reviewer</b> (about 200 out of more than 7200 reviewers!) at <b>ECCV 2024</b>!!! <a href="https://eccv2024.ecva.net/Conferences/2024/Reviewers">[link]</a><a href="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/refs/heads/master/assets/imgs/OR_ECCV2024.jpeg">[from ECCV 2024 opening remarks]</a></li>
+  <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">Ecological Informatics</a></b>!!</li>
   <li>EQAI 2024 was featured on a <a href="https://www.udinetoday.it/cronaca/uniud-scuola-estiva-ai-quantum-computing.html">local newspaper</a>! Everything is ready for this September!</li>
   <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
   <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
