@@ -150,11 +150,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h2>Service</h2>
 <ul>
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
-  <li><em>Local Organization Chair</em>: <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
+  <li><em>Part of the Organization Committee</em>: <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
   <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: ECCV 2024, ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
+  <li><em>Conference Reviewing</em>: MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
     <ul>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
