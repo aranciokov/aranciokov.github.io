@@ -10,12 +10,14 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>one paper accepted at <a href="https://mmm2025.net/">MMM 2025</a>! See you in Nara, Japan!</li>
   <li>I was nominated <b>Outstanding Reviewer</b> (<a href="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/refs/heads/master/assets/imgs/OR_ECCV2024.jpeg">198</a> out of almost <a href="https://pbs.twimg.com/media/GYyO1V8WUAEfFM4?format=jpg&name=large">7300</a> reviewers!) at <b>ECCV 2024</b>!!! <a href="https://eccv2024.ecva.net/Conferences/2024/Reviewers">[link]</a></li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">Ecological Informatics</a></b>!!</li>
+  <li>I'm part of the organization committee for <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>!</li>
   <li>EQAI 2024 was featured on a <a href="https://www.udinetoday.it/cronaca/uniud-scuola-estiva-ai-quantum-computing.html">local newspaper</a>! Everything is ready for this September!</li>
   <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
   <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
-  <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you at Phuket, Thailand!</li>
+  <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you in Phuket, Thailand!</li>
   <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
   <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
   <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
@@ -154,9 +156,10 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
+  <li><em>Conference Reviewing</em>: CVPR 2025, MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
     <ul>
+      <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024.</li>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
       <li>Rodaro Edoardo, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
       <li>Bianchi Carlo, MSc <i class="fa-solid fa-graduation-cap"></i> <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
