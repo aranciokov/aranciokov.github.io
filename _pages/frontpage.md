@@ -152,15 +152,32 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
-<h2>Service</h2>
+<h2>Academic Service</h2>
 <ul>
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
-  <li><em>Part of the Organization Committee</em>: <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
-  <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2025">CV4Metaverse 2025 at CVPR</a>, <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+  <li><em>Organizer or Part of the Organization Committee</em>: 
+    <ul>
+      <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
+      <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
+      <li><a href="http://eqai.eu/">EQAI 2024, 2023</a>, </li>
+      <li><a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, </li>
+      <li><a href="https://aixia2022.uniud.it/">AIxIA 2022</a>, </li>
+      <li><a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+    </ul>
+  </li>
+  <li><em>Invited speaker or lecturer</em>:
+    <ul>
+      <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
+      <li>"Deep Learning for Multimedia understanding" at University of Udine (2023), </li>
+      <li>"Data-driven approaches for the Remaining Useful Life Estimation problem" at University of Bolzano (2022), </li>
+      <li>"Learning video retrieval models with relevance-aware online mining" at University of Bolzano (2022), </li>
+      <li>"Data-driven approaches for the remaining useful life estimation problem" at FBK (2022).</li>
+    </ul>
+  </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: ACM MM 2025, CVPR 2025, MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
-  <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, MMM 2025, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Co-Supervision</em>: 3 Bachelor and 6 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
       <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024.</li>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
