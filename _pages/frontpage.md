@@ -108,6 +108,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>MMM 2025.</b><a href="https://link.springer.com/chapter/10.1007/978-981-96-2061-6_5">[pdf]</a> <a href="https://github.com/aranciokov/HierArtEx-MMM2025">[code]</a></li>
   <li><em>AdOCTeRA: Adaptive Optimization Constraints for improved Text-guided Retrieval of Apartments.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2024.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039">[pdf]</a></li>
   <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra. <b>IRCDL 2024.</b> <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">[pdf]</a></li>
   <li><em>A Language-based solution to enable Metaverse Retrieval.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>MMM 2024.</b> <a href="https://arxiv.org/abs/2312.14630">[pdf]</a></li>
@@ -155,10 +156,10 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <ul>
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
   <li><em>Part of the Organization Committee</em>: <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, <a href="http://eqai.eu/">EQAI 2024, 2023</a>, <a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, <a href="https://aixia2022.uniud.it/">AIxIA 2022</a></li>
-  <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+  <li><em>Organizer</em>: <a href="https://sites.google.com/view/cv4metaverse-2025">CV4Metaverse 2025 at CVPR</a>, <a href="https://sites.google.com/view/cv4metaverse-2024">CV4Metaverse 2024 at ECCV</a>, <a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: CVPR 2025, MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
+  <li><em>Conference Reviewing</em>: ACM MM 2025, CVPR 2025, MMM 2025, ECCV 2024 (Outstanding Reviewer!), ACM MM 2024, ACM MM 2023, CCISP 2023, IRCDL 2023, ICIAP 2023, ICPR 2022, ICIAP 2021, EMNLP 2021, ICPR 2020.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 5 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language and Predictive Maintenance.
     <ul>
       <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024.</li>
