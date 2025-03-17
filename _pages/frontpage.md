@@ -10,8 +10,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: mid March!)]</a></li>
-  <li>one paper accepted at <a href="https://ircdl2025.uniud.it">IRCDL</a>!</li>
+  <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! [open access paper soon]</li>
+  <li>one paper accepted at <b>Artificial Intelligence in Agriculture</b>!! [open access paper soon]</li>
+  <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
+  <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: March 22!)]</a></li>
+  <li>one paper accepted at <a href="https://ircdl2025.uniud.it">IRCDL</a>! <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
   <li>one paper accepted at <a href="https://mmm2025.net/">MMM 2025</a>! See you in Nara, Japan! <a href="https://link.springer.com/chapter/10.1007/978-981-96-2061-6_5">[link]</a> <a href="https://github.com/aranciokov/HierArtEx-MMM2025">[code]</a></li>
   <li>I was nominated <b>Outstanding Reviewer</b> (<a href="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/refs/heads/master/assets/imgs/OR_ECCV2024.jpeg">198</a> out of almost <a href="https://pbs.twimg.com/media/GYyO1V8WUAEfFM4?format=jpg&name=large">7300</a> reviewers!) at <b>ECCV 2024</b>!!! <a href="https://eccv2024.ecva.net/Conferences/2024/Reviewers">[link]</a></li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">Ecological Informatics</a></b>!!</li>
