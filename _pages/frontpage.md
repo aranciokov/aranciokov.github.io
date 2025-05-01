@@ -10,8 +10,10 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>two papers (one full paper based on work of my MSc students + one reproducibility) accepted at <b>ACM ICMR 2025</b>!</li>
+  <li>won a MIT GSF grant (about $10k) and one NRRP grant for €250k!!!</li>
   <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! [open access paper soon]</li>
-  <li>one paper accepted at <b>Artificial Intelligence in Agriculture</b>!! [open access paper soon]</li>
+  <li>one paper accepted at <b>Artificial Intelligence in Agriculture</b>!! [<a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">paper</a>]</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
   <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: March 22!)]</a></li>
   <li>one paper accepted at <a href="https://ircdl2025.uniud.it">IRCDL</a>! <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
@@ -162,7 +164,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
     <ul>
       <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
       <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
-      <li><a href="http://eqai.eu/">EQAI 2024, 2023</a>, </li>
+      <li><a href="http://eqai.eu/">EQAI 2025, 2024, 2023</a>, </li>
       <li><a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, </li>
       <li><a href="https://aixia2022.uniud.it/">AIxIA 2022</a>, </li>
       <li><a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
@@ -179,10 +181,13 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, MMM 2025, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025, MMM 2025, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 6 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
-      <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024.</li>
+      <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025.</li>
+      <li>Fedrigo Mattia, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Automating Vegetation Cover Estimation with Deep Learning: A Transfer Learning-Based Semantic Segmentation Approach</em>. 2025.</li>
+      <li>Lavarone Stefano, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Design and Evaluation of a Multimodal Retrieval System on a Novel Dataset of Automatically Generated Virtual Museums</em>. 2025.</li>
+      <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024. (published at <a href="">ACM ICMR 2025</a>!)</li>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
       <li>Rodaro Edoardo, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
       <li>Bianchi Carlo, MSc <i class="fa-solid fa-graduation-cap"></i> <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
