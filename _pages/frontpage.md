@@ -10,10 +10,12 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>two papers (one full paper based on work of my MSc students + one reproducibility) accepted at <b>ACM ICMR 2025</b>!</li>
+  <li>two journal papers on multidisciplinary collaborations were recently accepted on <b>Annals of GIS</b> and <b>Nutrients</b>!! PDFs/links will soon follow!</li>
+  <li>one paper accepted at ICIAP!</li>
+  <li>two papers (one <a href="https://doi.org/10.1145/3731715.3733358">full paper</a> based on work of my MSc students + one <a href="https://doi.org/10.1145/3731715.3734535">reproducibility</a>) accepted at <b>ACM ICMR 2025</b>!</li>
   <li>won a MIT GSF grant (about $10k) and one NRRP grant for €250k!!!</li>
   <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! [open access paper soon]</li>
-  <li>one paper accepted at <b>Artificial Intelligence in Agriculture</b>!! [<a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">paper</a>]</li>
+  <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">Artificial Intelligence in Agriculture</a></b>!!</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
   <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: March 22!)]</a></li>
   <li>one paper accepted at <a href="https://ircdl2025.uniud.it">IRCDL</a>! <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
@@ -113,6 +115,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ICIAP 2025.</b> <a href="">[pdf soon]</a></li>
+  <li><em>HM3: Hierarchical Modeling of Multimedia Metaverses on 10000 Thematic Museums via Theme-aware Contrastive Loss Function.</em><br/>G. Macrì, L. Bazzana, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2025.</b> <a href="https://dl.acm.org/doi/10.1145/3731715.3733358">[pdf]</a></li>
+  <li><em>Reproducibility Companion Paper: AdOCTeRA - Adaptive Optimization Constraints for Improved text-guided Retrieval of Apartments</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2025.</b> <a href="https://dl.acm.org/doi/10.1145/3731715.3734535">[pdf]</a></li>
+  <li><em>ALCER3D: Adaptive Learning Constraints for Enhanced Retrieval of Complex Indoor 3D Scenarios.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>(accepted for publication in March at) IEEE TMM 2025.</b><a href="">[pdf soon]</a> <a href="https://github.com/aliabdari/ALCER3D">[code]</a></li>
+  <li><em>AgriMus: Developing Museums in the Metaverse for Agricultural Education</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>IRCDL 2025</b> <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
   <li><em>HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>MMM 2025.</b><a href="https://link.springer.com/chapter/10.1007/978-981-96-2061-6_5">[pdf]</a> <a href="https://github.com/aranciokov/HierArtEx-MMM2025">[code]</a></li>
   <li><em>AdOCTeRA: Adaptive Optimization Constraints for improved Text-guided Retrieval of Apartments.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2024.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039">[pdf]</a></li>
   <li><em>Paving the Way for Personalized Museums Tours in the Metaverse.</em><br/><b>A. Falcon</b>, B. Portelli, A. Abdari, G. Serra. <b>IRCDL 2024.</b> <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">[pdf]</a></li>
@@ -187,7 +194,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025.</li>
       <li>Fedrigo Mattia, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Automating Vegetation Cover Estimation with Deep Learning: A Transfer Learning-Based Semantic Segmentation Approach</em>. 2025.</li>
       <li>Lavarone Stefano, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Design and Evaluation of a Multimodal Retrieval System on a Novel Dataset of Automatically Generated Virtual Museums</em>. 2025.</li>
-      <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024. (published at <a href="">ACM ICMR 2025</a>!)</li>
+      <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024. (published at <a href="https://doi.org/10.1145/3731715.3733358">ACM ICMR 2025</a>!)</li>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
       <li>Rodaro Edoardo, BSc <i class="fa-solid fa-graduation-cap"></i> <em>Rilevamento del flusso di materiale su nastro trasportatore attraverso le reti neurali</em>. 2023.</li>
       <li>Bianchi Carlo, MSc <i class="fa-solid fa-graduation-cap"></i> <em>L'Intelligenza Artificiale a supporto del metaverso</em>. 2023. </li>
