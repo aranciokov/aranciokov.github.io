@@ -10,10 +10,10 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>two journal papers on multidisciplinary collaborations were recently accepted on <b>Annals of GIS</b> and <b>Nutrients</b>!! PDFs/links will soon follow!</li>
+  <li>two journal papers on multidisciplinary collaborations were recently accepted on <b><a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">Annals of GIS</a></b> and <b><a href="https://www.mdpi.com/2072-6643/17/13/2196">Nutrients</a></b>!!</li>
   <li>one paper accepted at ICIAP!</li>
   <li>two papers (one <a href="https://doi.org/10.1145/3731715.3733358">full paper</a> based on work of my MSc students + one <a href="https://doi.org/10.1145/3731715.3734535">reproducibility</a>) accepted at <b>ACM ICMR 2025</b>!</li>
-  <li>won a MIT GSF grant (about $10k) and one NRRP grant for €250k!!!</li>
+  <li>won a MIT GSF grant (about $25k) and one NRRP grant for €250k!!!</li>
   <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! [open access paper soon]</li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">Artificial Intelligence in Agriculture</a></b>!!</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
