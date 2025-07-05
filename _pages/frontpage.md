@@ -130,6 +130,26 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 
+
+<h3>Applied AI for Multidisciplinary Problems <i class="fa-solid fa-building-wheat"></i> <i class="fa-solid fa-tree"></i> <i class="fa-solid fa-wine-bottle"></i> <i class="fa-solid fa-bowl-rice"></i></h3>
+<h5><em>topics: machine learning for tabular data in forestry computer vision for nutrition </em></h5>
+
+<img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/forestry_pipeline.png" alt="Example of pipeline for dealing with forestry data" width="50%" height="auto">
+<p><b>TL;DR</b>: Dealing with multidisciplinary problems means dealing with real world data. This raises additional challenges (eg: data becomes more scarce or lower quality), and requires a different mindset to solve the problem at hand. Nonetheless, this also means dealing with problems that might have an impact on real issues, such as more sustainable farming techniques. I've had the opportunity of collaborating on several projects dealing with experts from heterogeneous fields including forestry, wine production, agriculture, and nutrition. </p>
+
+
+<h5>Selected publications/endeavors</h5>
+
+<ol>
+  <li><em>Evaluating organic carbon in living and dead trees using GLCM features and explainable machine learning: insights from Italian national forest.</em><br/>M. Fasihi, <b>A. Falcon</b>, G. Alberti, L. Cadez, F. Giannetti, A. Tomao, G. Serra. <b>Annals of GIS, 2025.</b> <a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">[pdf]</a></li>
+  <li><em>2D Prediction of the Nutritional Composition of Dishes from Food Images: Deep Learning Algorithm Selection and Data Curation Beyond the Nutrition5k Project.</em><br/>R. Bianco, S. Coluccia, M. Marinoni, <b>A. Falcon</b>, F. Fiori, G. Serra, M. Ferraroni, V. Edefonti, M. Parpinel. <b>Nutrients 17(13), 2025.</b> <a href="https://www.mdpi.com/2072-6643/17/13/2196">[pdf]</a></li>
+  <li><em>Boosting grapevine phenological stages prediction based on climatic data by pseudo-labeling approach.</em><br/>M. Fasihi, M. Sodini, <b>A. Falcon</b>, F. Degano, P. Sivilotti, G. Serra. <b>Artificial Intelligence in Agriculture 15(3).</b> <a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">[pdf]</a></li>
+  <li><em>Assessing ensemble models for carbon sequestration and storage estimation in forests using remote sensing data.</em><br/>M. Fasihi, B. Portelli, L. Cadez, A. Tomao, A. Falcon, G. Alberti, G. Serra. <b>Ecological Informatics 83, 2024.</b> <a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">[pdf]</a></li>
+</ol>
+
+
+
+
 <h3>Video Question Answering <i class="fa-solid fa-photo-film"></i> <i class="fa-solid fa-person-circle-question"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-circle-exclamation"></i></h3>
 <h5><em>topics: multimedia, cross-modal understanding, vision and language</em></h5>
 
