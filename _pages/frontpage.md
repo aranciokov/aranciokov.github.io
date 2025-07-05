@@ -132,7 +132,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 
 <h3>Applied AI for Multidisciplinary Problems <i class="fa-solid fa-building-wheat"></i> <i class="fa-solid fa-tree"></i> <i class="fa-solid fa-wine-bottle"></i> <i class="fa-solid fa-bowl-rice"></i></h3>
-<h5><em>topics: machine learning for tabular data in forestry computer vision for nutrition </em></h5>
+<h5><em>topics: real world data, machine learning for ecological problems, sustainability, computer vision for nutrition, computer vision for agriculture </em></h5>
 
 <img src="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/master/assets/imgs/forestry_pipeline.png" alt="Example of pipeline for dealing with forestry data" width="50%" height="auto">
 <p><b>TL;DR</b>: Dealing with multidisciplinary problems means dealing with real world data. This raises additional challenges (eg: data becomes more scarce or lower quality), and requires a different mindset to solve the problem at hand. Nonetheless, this also means dealing with problems that might have an impact on real issues, such as more sustainable farming techniques. I've had the opportunity of collaborating on several projects dealing with experts from heterogeneous fields including forestry, wine production, agriculture, and nutrition. </p>
