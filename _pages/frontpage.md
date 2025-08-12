@@ -10,6 +10,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
+  <li>one paper accepted at IJDL! [open access paper soon]</li>
   <li>two journal papers on multidisciplinary collaborations were recently accepted on <b><a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">Annals of GIS</a></b> and <b><a href="https://www.mdpi.com/2072-6643/17/13/2196">Nutrients</a></b>!!</li>
   <li>one paper accepted at ICIAP!</li>
   <li>two papers (one <a href="https://doi.org/10.1145/3731715.3733358">full paper</a> based on work of my MSc students + one <a href="https://doi.org/10.1145/3731715.3734535">reproducibility</a>) accepted at <b>ACM ICMR 2025</b>!</li>
