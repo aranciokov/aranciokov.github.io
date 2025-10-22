@@ -10,13 +10,14 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I visited <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
   <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
-  <li>one paper accepted at IJDL! [open access paper soon]</li>
+  <li>one paper accepted at <b>IJDL</b>! <a href="https://link.springer.com/article/10.1007/s00799-025-00433-9">[pdf]</a></li>
   <li>two journal papers on multidisciplinary collaborations were recently accepted on <b><a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">Annals of GIS</a></b> and <b><a href="https://www.mdpi.com/2072-6643/17/13/2196">Nutrients</a></b>!!</li>
-  <li>one paper accepted at ICIAP!</li>
+  <li>one paper accepted at ICIAP! <a href="https://arxiv.org/abs/2508.13713">[pdf]</a></li>
   <li>two papers (one <a href="https://doi.org/10.1145/3731715.3733358">full paper</a> based on work of my MSc students + one <a href="https://doi.org/10.1145/3731715.3734535">reproducibility</a>) accepted at <b>ACM ICMR 2025</b>!</li>
   <li>won a MIT GSF grant (about $25k) and one NRRP grant for €250k!!!</li>
-  <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! [open access paper soon]</li>
+  <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! <a href="https://ieeexplore.ieee.org/abstract/document/11175509">[pdf]</a></li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">Artificial Intelligence in Agriculture</a></b>!!</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
   <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: March 22!)]</a></li>
