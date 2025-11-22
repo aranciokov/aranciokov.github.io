@@ -16,7 +16,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li>two journal papers on multidisciplinary collaborations were recently accepted on <b><a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">Annals of GIS</a></b> and <b><a href="https://www.mdpi.com/2072-6643/17/13/2196">Nutrients</a></b>!!</li>
   <li>one paper accepted at ICIAP! <a href="https://arxiv.org/abs/2508.13713">[pdf]</a></li>
   <li>two papers (one <a href="https://doi.org/10.1145/3731715.3733358">full paper</a> based on work of my MSc students + one <a href="https://doi.org/10.1145/3731715.3734535">reproducibility</a>) accepted at <b>ACM ICMR 2025</b>!</li>
-  <li>won a MIT GSF grant (about $25k) and one NRRP grant for €250k!!!</li>
+  <li>won a MIT GSF grant ("Scaling marine biodiversity monitoring with AI", about $25k) and one NRRP grant for €250k!!!</li>
   <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! <a href="https://ieeexplore.ieee.org/abstract/document/11175509">[pdf]</a></li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">Artificial Intelligence in Agriculture</a></b>!!</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
@@ -194,7 +194,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
     <ul>
       <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
       <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
-      <li><a href="http://eqai.eu/">EQAI 2025, 2024, 2023</a>, </li>
+      <li><a href="http://eqai.eu/">EQAI 2026, 2025, 2024, 2023</a>, </li>
       <li><a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, </li>
       <li><a href="https://aixia2022.uniud.it/">AIxIA 2022</a>, </li>
       <li><a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
@@ -202,6 +202,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Invited speaker or lecturer</em>:
     <ul>
+      <li>"Artificial intelligence and data mining methods in ecology" lecturer for PhD course at ITINERIS summer school (2025), </li>
       <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
       <li>"Deep Learning for Multimedia understanding" at University of Udine (2023), </li>
       <li>"Data-driven approaches for the Remaining Useful Life Estimation problem" at University of Bolzano (2022), </li>
@@ -211,9 +212,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025, MMM 2025, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
   <li><em>Co-Supervision</em>: 3 Bachelor and 6 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
+      <li>Zampieri Pietro, Bsc <i class="fa-solid fa-graduation-cap"></i> <em>Stima della posa a sei gradi di libertà per veicoli a guida autonoma</em>. 2025. </li>
+      <li>Dittaro Federico, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Artificial Intelligence for Precision Agriculture: Semantic Segmentation of Crop Fields Using Deep Learning</em>. 2025. </li>
       <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025.</li>
       <li>Fedrigo Mattia, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Automating Vegetation Cover Estimation with Deep Learning: A Transfer Learning-Based Semantic Segmentation Approach</em>. 2025.</li>
       <li>Lavarone Stefano, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Design and Evaluation of a Multimodal Retrieval System on a Novel Dataset of Automatically Generated Virtual Museums</em>. 2025.</li>
