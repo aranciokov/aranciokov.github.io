@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>one paper accepted at <b>Smart Agricultural Technology</b>!! <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
   <li>I visited <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
   <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
   <li>one paper accepted at <b>IJDL</b>! <a href="https://link.springer.com/article/10.1007/s00799-025-00433-9">[pdf]</a></li>
@@ -118,10 +119,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
-  <li><em>Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ICIAP 2025.</b> <a href="">[pdf soon]</a></li>
-  <li><em>HM3: Hierarchical Modeling of Multimedia Metaverses on 10000 Thematic Museums via Theme-aware Contrastive Loss Function.</em><br/>G. Macrì, L. Bazzana, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2025.</b> <a href="https://dl.acm.org/doi/10.1145/3731715.3733358">[pdf]</a></li>
+  <li><em>Searching Agricultural Learning Experiences in the Metaverse via Textual and Visual Queries within the AgriMus project</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>IJDL 2025</b> <a href="https://link.springer.com/article/10.1007/s00799-025-00433-9">[pdf]</a> <a href="https://github.com/aliabdari/AgriMus">[code]</a></li>
+  <li><em>Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ICIAP 2025.</b> <a href="">[pdf soon]</a> <a href="https://github.com/aliabdari/Agricultural_Metaverse_Retrieval">[code]</a></li>
+  <li><em>HM3: Hierarchical Modeling of Multimedia Metaverses on 10000 Thematic Museums via Theme-aware Contrastive Loss Function.</em><br/>G. Macrì, L. Bazzana, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2025.</b> <a href="https://dl.acm.org/doi/10.1145/3731715.3733358">[pdf]</a><a href="https://github.com/gianlucamacri/HM3-ICMR25">[code]</a></li>
   <li><em>Reproducibility Companion Paper: AdOCTeRA - Adaptive Optimization Constraints for Improved text-guided Retrieval of Apartments</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2025.</b> <a href="https://dl.acm.org/doi/10.1145/3731715.3734535">[pdf]</a></li>
-  <li><em>ALCER3D: Adaptive Learning Constraints for Enhanced Retrieval of Complex Indoor 3D Scenarios.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>(accepted for publication in March at) IEEE TMM 2025.</b><a href="">[pdf soon]</a> <a href="https://github.com/aliabdari/ALCER3D">[code]</a></li>
+  <li><em>ALCER3D: Adaptive Learning Constraints for Enhanced Retrieval of Complex Indoor 3D Scenarios.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>IEEE TMM 2025.</b><a href="https://ieeexplore.ieee.org/abstract/document/11175509">[pdf]</a> <a href="https://github.com/aliabdari/ALCER3D">[code]</a></li>
   <li><em>AgriMus: Developing Museums in the Metaverse for Agricultural Education</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>IRCDL 2025</b> <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
   <li><em>HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse.</em><br/><b>A. Falcon</b>, A. Abdari, G. Serra. <b>MMM 2025.</b><a href="https://link.springer.com/chapter/10.1007/978-981-96-2061-6_5">[pdf]</a> <a href="https://github.com/aranciokov/HierArtEx-MMM2025">[code]</a></li>
   <li><em>AdOCTeRA: Adaptive Optimization Constraints for improved Text-guided Retrieval of Apartments.</em><br/>A. Abdari, <b>A. Falcon</b>, G. Serra. <b>ACM ICMR 2024.</b> <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039">[pdf]</a></li>
@@ -144,6 +146,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>Use of an AI-based annotation tool reduces inter-observer error linked to cover estimation of arable crops and weeds</em><br/>A. Virili, <b>A. Falcon</b>, B. Portelli, A. Peressotti, G. Serra, E. Marraccini. <b>Smart Agricultural Technology, 2025.</b> <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
+  <li><em>Beyond the Nutrition5k Project: Data Curation and Deep Learning Algorithms to Predict the Nutritional Composition of Dishes from Food Images</em><br/>S. Coluccia, R. Bianco, M. Marinoni, <b>A. Falcon</b>, F. Fiori, G. Serra, M. Ferraroni, M. Parpinel, V. Edefonti. <b>SISMEC 2025.</b> <a href="https://riviste.unimi.it/index.php/ebph/article/view/29429">[pdf]</a></li>
   <li><em>Evaluating organic carbon in living and dead trees using GLCM features and explainable machine learning: insights from Italian national forest.</em><br/>M. Fasihi, <b>A. Falcon</b>, G. Alberti, L. Cadez, F. Giannetti, A. Tomao, G. Serra. <b>Annals of GIS, 2025.</b> <a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">[pdf]</a></li>
   <li><em>2D Prediction of the Nutritional Composition of Dishes from Food Images: Deep Learning Algorithm Selection and Data Curation Beyond the Nutrition5k Project.</em><br/>R. Bianco, S. Coluccia, M. Marinoni, <b>A. Falcon</b>, F. Fiori, G. Serra, M. Ferraroni, V. Edefonti, M. Parpinel. <b>Nutrients 17(13), 2025.</b> <a href="https://www.mdpi.com/2072-6643/17/13/2196">[pdf]</a></li>
   <li><em>Boosting grapevine phenological stages prediction based on climatic data by pseudo-labeling approach.</em><br/>M. Fasihi, M. Sodini, <b>A. Falcon</b>, F. Degano, P. Sivilotti, G. Serra. <b>Artificial Intelligence in Agriculture 15(3).</b> <a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">[pdf]</a></li>
