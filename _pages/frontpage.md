@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
   <li>one paper accepted at <b>Smart Agricultural Technology</b>!! <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
   <li>I visited <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
   <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
@@ -146,6 +147,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 <h5>Selected publications/endeavors</h5>
 
 <ol>
+  <li><em>Data Curation and Performance of Deep Learning Algorithms for Food Image Recognition: Insights from Nutrition5k Dataset</em><br/>M Marinoni, R Bianco, S Coluccia, <b>A. Falcon</b>, F Fiori, V Edefonti, M Parpinel. <b>Nutrition, Metabolism and Cardiovascular Diseases 36(1), 2026.</b> <a href="https://www.nmcd-journal.com/article/S0939-4753(25)00466-1/fulltext">[pdf]</a></li>
   <li><em>Use of an AI-based annotation tool reduces inter-observer error linked to cover estimation of arable crops and weeds</em><br/>A. Virili, <b>A. Falcon</b>, B. Portelli, A. Peressotti, G. Serra, E. Marraccini. <b>Smart Agricultural Technology, 2025.</b> <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
   <li><em>Beyond the Nutrition5k Project: Data Curation and Deep Learning Algorithms to Predict the Nutritional Composition of Dishes from Food Images</em><br/>S. Coluccia, R. Bianco, M. Marinoni, <b>A. Falcon</b>, F. Fiori, G. Serra, M. Ferraroni, M. Parpinel, V. Edefonti. <b>SISMEC 2025.</b> <a href="https://riviste.unimi.it/index.php/ebph/article/view/29429">[pdf]</a></li>
   <li><em>Evaluating organic carbon in living and dead trees using GLCM features and explainable machine learning: insights from Italian national forest.</em><br/>M. Fasihi, <b>A. Falcon</b>, G. Alberti, L. Cadez, F. Giannetti, A. Tomao, G. Serra. <b>Annals of GIS, 2025.</b> <a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">[pdf]</a></li>
@@ -206,6 +208,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Invited speaker or lecturer</em>:
     <ul>
+      <li>"PyGreen – PYthon tools for the GREEN transition" lecturer for winter school within the UnITAfrica project (2026), </li>
       <li>"Artificial intelligence and data mining methods in ecology" lecturer for PhD course at ITINERIS summer school (2025), </li>
       <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
       <li>"Deep Learning for Multimedia understanding" at University of Udine (2023), </li>
@@ -215,10 +218,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
     </ul>
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
-  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst.</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
-  <li><em>Co-Supervision</em>: 3 Bachelor and 6 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
+  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst., Information Fusion</li>
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Co-Supervision</em>: 4 Bachelor and 11 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
+      <li>Zaccaron Gianluca, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Allineamento Multimodale tra Testo e Oggetti 3D: Analisi Dettagliata di Metodi e Dataset in Letteratura</em>. 2025. </li>
       <li>Zampieri Pietro, Bsc <i class="fa-solid fa-graduation-cap"></i> <em>Stima della posa a sei gradi di libertà per veicoli a guida autonoma</em>. 2025. </li>
       <li>Dittaro Federico, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Artificial Intelligence for Precision Agriculture: Semantic Segmentation of Crop Fields Using Deep Learning</em>. 2025. </li>
       <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025.</li>
