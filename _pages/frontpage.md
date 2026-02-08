@@ -10,8 +10,11 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>I'll talk at the <a href="https://gioiadc.github.io/INDACO/">INDACO</a> workshop about the experience we had using AI and Vision for supporting the efforts of expert nutritionists!</li>
   <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
+  <li>one paper accepted at <a href="https://ircdl2026.unimore.it/">IRCDL 2026</a>! <a href="">[pdf soon]</a></li>
   <li>one paper accepted at <b>Smart Agricultural Technology</b>!! <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
+  <li>As in previous years, I'm part of the local organization committee for <a href="http://eqai.eu/">EQAI 2026 (European Summer School on Quantum AI)</a>!</li>
   <li>I visited <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
   <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
   <li>one paper accepted at <b>IJDL</b>! <a href="https://link.springer.com/article/10.1007/s00799-025-00433-9">[pdf]</a></li>
@@ -22,24 +25,29 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li>one paper accepted at <b>IEEE Transactions on Multimedia</b>!! <a href="https://ieeexplore.ieee.org/abstract/document/11175509">[pdf]</a></li>
   <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S2589721725000303">Artificial Intelligence in Agriculture</a></b>!!</li>
   <li>check this report we published at <a href="https://dl.acm.org/doi/abs/10.1145/3722449.3722456">ACM SIGIR Forum!</a></li>
+  <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2025 (European Summer School on Quantum AI)</a>!</li>
   <li>I'm part of the organization for the <a href="https://sites.google.com/view/cv4metaverse-2025">4th ed. of CV4Metaverse at <b>CVPR 2025</b></a>! See you in Nashville, Tennessee! <a href="https://sites.google.com/view/cv4metaverse-2025/call-for-papers">[CFP (DL: March 22!)]</a></li>
   <li>one paper accepted at <a href="https://ircdl2025.uniud.it">IRCDL</a>! <a href="https://ceur-ws.org/Vol-3937/paper16.pdf">[pdf]</a></li>
   <li>one paper accepted at <a href="https://mmm2025.net/">MMM 2025</a>! See you in Nara, Japan! <a href="https://link.springer.com/chapter/10.1007/978-981-96-2061-6_5">[link]</a> <a href="https://github.com/aranciokov/HierArtEx-MMM2025">[code]</a></li>
-  <li>I was nominated <b>Outstanding Reviewer</b> (<a href="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/refs/heads/master/assets/imgs/OR_ECCV2024.jpeg">198</a> out of almost <a href="https://pbs.twimg.com/media/GYyO1V8WUAEfFM4?format=jpg&name=large">7300</a> reviewers!) at <b>ECCV 2024</b>!!! <a href="https://eccv2024.ecva.net/Conferences/2024/Reviewers">[link]</a></li>
-  <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">Ecological Informatics</a></b>!!</li>
-  <li>I'm part of the organization committee for <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>!</li>
-  <li>EQAI 2024 was featured on a <a href="https://www.udinetoday.it/cronaca/uniud-scuola-estiva-ai-quantum-computing.html">local newspaper</a>! Everything is ready for this September!</li>
-  <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
-  <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
-  <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you in Phuket, Thailand!</li>
-  <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
-  <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
-  <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
-  <li>one paper accepted as an Oral at <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">IRCDL 2024</a>!</li>
+
  </ul>
 <details>
 <summary>[click for previous years]</summary>
 <ul>
+ <li><em>2024</em></li>
+   <ul>
+     <li>I was nominated <b>Outstanding Reviewer</b> (<a href="https://raw.githubusercontent.com/aranciokov/aranciokov.github.io/refs/heads/master/assets/imgs/OR_ECCV2024.jpeg">198</a> out of almost <a href="https://pbs.twimg.com/media/GYyO1V8WUAEfFM4?format=jpg&name=large">7300</a> reviewers!) at <b>ECCV 2024</b>!!! <a href="https://eccv2024.ecva.net/Conferences/2024/Reviewers">[link]</a></li>
+     <li>one paper accepted at <b><a href="https://www.sciencedirect.com/science/article/pii/S1574954124003704">Ecological Informatics</a></b>!!</li>
+     <li>I'm part of the organization committee for <a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>!</li>
+     <li>EQAI 2024 was featured on a <a href="https://www.udinetoday.it/cronaca/uniud-scuola-estiva-ai-quantum-computing.html">local newspaper</a>! Everything is ready for this September!</li>
+     <li>I was invited as a <a href="https://www.aidlda.it/speaker/alex-falcon/">speaker</a> at the AI-DLDA summer school, where I talked about retrieving complex 3D scenarios using text! A notebook will become available later on!</li>
+     <li>one paper accepted at <b><a href="https://doi.org/10.1016/j.cviu.2024.104035">Computer Vision and Image Understanding</a></b>!!! <a href="https://github.com/aranciokov/ranp/">[code]</a> </li>
+     <li>one paper accepted as Poster at <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658039"><b>ACM ICMR 2024</b></a>! See you in Phuket, Thailand!</li>
+     <li>We are organizing the <b><a href="https://sites.google.com/view/cv4metaverse-2024">3rd ed. of CV4Metaverse workshop at ECCV 2024</a></b> and hosting the <i class="fa-solid fa-ranking-star"></i> <a href="https://ailab.uniud.it/apartment-recommendation-challenge/">Metaverse Apartment Retrieval Challenge</a>!</li>
+     <li>I am part of the local organization committee for <a href="http://eqai.eu/">EQAI 2024 (European Summer School on Quantum AI)</a>!</li>
+     <li>I am a guest editor for the <b>Special Issue on Text-Multimedia Retrieval: Retrieving Multimedia Data by Means of Natural Language</b> at <b>ACM TOMM</b>! Check the <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">call for papers</a>! (deadline: June 30, 2024)</li>
+     <li>one paper accepted as an Oral at <a href="https://ceur-ws.org/Vol-3643/paper17.pdf">IRCDL 2024</a>!</li>
+  </ul>
  <li><em>2023</em></li>
  <ul>
   <li>one paper accepted as an Oral at <a href="https://link.springer.com/chapter/10.1007/978-3-031-53311-2_35"><b>MMM 2024</b></a>! <a href="https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses">code by Ali</a></li>
