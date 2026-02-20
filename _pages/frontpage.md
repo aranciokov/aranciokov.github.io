@@ -10,6 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>Paper accepted at <b>ACM TOMM</b>!! Great job Ali! <a href="">[pdf soon]</a><a href="">[code soon]</a></li>
   <li>I'll talk at the <a href="https://gioiadc.github.io/INDACO/">INDACO</a> workshop about the experience we had using AI and Vision for supporting the efforts of expert nutritionists!</li>
   <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
   <li>one paper accepted at <a href="https://ircdl2026.unimore.it/">IRCDL 2026</a>! <a href="">[pdf soon]</a></li>
@@ -216,6 +217,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Invited speaker or lecturer</em>:
     <ul>
+      <li>"Riconoscimento di ingredienti e stima di macronutrienti da immagini bidimensionali di piatti: l’esperienza di Nutrition5k" (CV for Nutrition), along with Dr. Coluccia and Dr. Fiori, seminar at <a href="https://gioiadc.github.io/INDACO/">INDACO workshop</a> (2026), </li>
       <li>"PyGreen – PYthon tools for the GREEN transition" lecturer for winter school within the UnITAfrica project (2026), </li>
       <li>"Artificial intelligence and data mining methods in ecology" lecturer for PhD course at ITINERIS summer school (2025), </li>
       <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
@@ -227,7 +229,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst., Information Fusion</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2025, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
   <li><em>Co-Supervision</em>: 4 Bachelor and 11 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
       <li>Zaccaron Gianluca, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Allineamento Multimodale tra Testo e Oggetti 3D: Analisi Dettagliata di Metodi e Dataset in Letteratura</em>. 2025. </li>
