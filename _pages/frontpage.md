@@ -10,7 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>We will be organizing the 5th edition of CV4Metaverse (now called <b>MUSTCV</b>) at <b>ECCV 2026</b>! [website soon]</li>
+  <li>We will be organizing the 5th edition of CV4Metaverse (now called <b>MUSTCV</b>) at <b>ECCV 2026</b>! [[link]](https://sites.google.com/view/mustcv-2026/)</li>
   <li>Paper accepted at <b>ACM TOMM</b>!! Great job Ali! <a href="https://dl.acm.org/doi/full/10.1145/3799427">[pdf]</a><a href="https://github.com/aranciokov/HiCALM">[code]</a></li>
   <li>I'll talk at the <a href="https://gioiadc.github.io/INDACO/">INDACO</a> workshop about the experience we had using AI and Vision for supporting the efforts of expert nutritionists!</li>
   <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
@@ -229,8 +229,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
     </ul>
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
-  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, CVIU, IET Computer Vision, ACM TOMM, IEEE Trans Hum Mach Syst., Information Fusion</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, ACM TOMM, CVIU, IET Computer Vision, IEEE Trans Hum Mach Syst., Information Fusion</li>
+  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>BMVC 2026</b>, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
   <li><em>Co-Supervision</em>: 4 Bachelor and 11 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
       <li>Zaccaron Gianluca, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Allineamento Multimodale tra Testo e Oggetti 3D: Analisi Dettagliata di Metodi e Dataset in Letteratura</em>. 2025. </li>
