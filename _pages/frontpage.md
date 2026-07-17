@@ -10,7 +10,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
-  <li>We will be organizing the 5th edition of CV4Metaverse (now called <b>MUSTCV</b>) at <b>ECCV 2026</b>! [[link]](https://sites.google.com/view/mustcv-2026/)</li>
+  <li>We will be organizing the 5th edition of CV4Metaverse (now called <b>MUSTCV</b>) at <b>ECCV 2026</b>! <a href="https://sites.google.com/view/mustcv-2026/">[link]</a></li>
   <li>Paper accepted at <b>ACM TOMM</b>!! Great job Ali! <a href="https://dl.acm.org/doi/full/10.1145/3799427">[pdf]</a><a href="https://github.com/aranciokov/HiCALM">[code]</a></li>
   <li>I'll talk at the <a href="https://gioiadc.github.io/INDACO/">INDACO</a> workshop about the experience we had using AI and Vision for supporting the efforts of expert nutritionists!</li>
   <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
