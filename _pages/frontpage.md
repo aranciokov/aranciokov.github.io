@@ -202,26 +202,18 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 </ol>
 
 
-
-<h2>Academic Service</h2>
+<h2>Teaching activity</h2>
 <ul>
-  <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
-  <li><em>Organizer or Part of the Organization Committee</em>: 
+  <li>
+    <em>Lecturer</em>:
     <ul>
-      <li>MUSTCV (former CV4Metaverse) at <a href="https://sites.google.com/view/mustcv-2026/">ECCV 2026</a></li>
-      <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
-      <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
-      <li><a href="http://eqai.eu/">EQAI 2026, 2025, 2024, 2023</a>, </li>
-      <li><a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, </li>
-      <li><a href="https://aixia2022.uniud.it/">AIxIA 2022</a>, </li>
-      <li><a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
-    </ul>
-  </li>
-  <li><em>Invited speaker or lecturer</em>:
-    <ul>
-      <li>"Riconoscimento di ingredienti e stima di macronutrienti da immagini bidimensionali di piatti: l’esperienza di Nutrition5k" (CV for Nutrition), along with Dr. Coluccia and Dr. Fiori, seminar at <a href="https://gioiadc.github.io/INDACO/">INDACO workshop</a> (2026), </li>
       <li>"PyGreen – PYthon tools for the GREEN transition" lecturer for winter school within the UnITAfrica project (2026), </li>
       <li>"Artificial intelligence and data mining methods in ecology" lecturer for PhD course at ITINERIS summer school (2025), </li>
+    </ul>
+  </li>
+  <li><em>Invited speaker</em>:
+    <ul>
+      <li>"Riconoscimento di ingredienti e stima di macronutrienti da immagini bidimensionali di piatti: l’esperienza di Nutrition5k" (CV for Nutrition), along with Dr. Coluccia and Dr. Fiori, seminar at <a href="https://gioiadc.github.io/INDACO/">INDACO workshop</a> (2026), </li>
       <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
       <li>"Deep Learning for Multimedia understanding" at University of Udine (2023), </li>
       <li>"Data-driven approaches for the Remaining Useful Life Estimation problem" at University of Bolzano (2022), </li>
@@ -229,9 +221,6 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <li>"Data-driven approaches for the remaining useful life estimation problem" at FBK (2022).</li>
     </ul>
   </li>
-  <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
-  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, ACM TOMM, CVIU, IET Computer Vision, IEEE Trans Hum Mach Syst., Information Fusion</li>
-  <li><em>Conference Reviewing</em>: <b>AAAI 2027</b> <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>BMVC 2026</b>, <b>ACM ICMR</b> 2025-2026, MMM 2025-2027, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
   <li><em>Co-Supervision</em>: 7 Bachelor and 12 Master students of "Computer Science" (BSc or MSc) Degree <i class="fa fa-desktop" aria-hidden="true"></i> or "IoT, Big Data, and Machine Learning" BSc Degree <i class="fa fa-database" aria-hidden="true"></i> (or the old "IoT, Big Data, and Web" curriculum), "AI \& Cybersecurity" MSc Degree <i class="fa fa-bug" aria-hidden="true"></i> at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
       <li>Brotto Cristian, MSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-desktop" aria-hidden="true"></i> <em>Classificazione tassonomica di alberi in 3D</em>. 2026. (research paper WIP)</li>
@@ -255,4 +244,25 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <li>Rosso Giovanni, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Utilizzo di reti neurali convolutive per la manutenzione predittiva</em>. 2020. </li>
     </ul>
   </li>
+</ul>
+
+
+<h2>Academic Service</h2>
+<ul>
+  <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
+  <li><em>Organizer or Part of the Organization Committee</em>: 
+    <ul>
+      <li>MUSTCV (former CV4Metaverse) at <a href="https://sites.google.com/view/mustcv-2026/">ECCV 2026</a></li>
+      <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
+      <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
+      <li><a href="http://eqai.eu/">EQAI 2026, 2025, 2024, 2023</a>, </li>
+      <li><a href="https://sites.google.com/view/iciap-2023">ICIAP 2023</a>, </li>
+      <li><a href="https://aixia2022.uniud.it/">AIxIA 2022</a>, </li>
+      <li><a href="https://sites.google.com/view/viqa2020">VIQA 2020</a>/<a href="https://sites.google.com/view/vtiur2020">VTIUR 2020</a></li>
+    </ul>
+  </li>
+  <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
+  <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, ACM TOMM, CVIU, IET Computer Vision, IEEE Trans Hum Mach Syst., Information Fusion</li>
+  <li><em>Conference Reviewing</em>: <b>AAAI</b> 2027, <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>BMVC 2026</b>, <b>ACM ICMR</b> 2025-2026, MMM 2025-2027, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li>Session chair at MUSTCV (ECCV 2026), CV4Metaverse (CVPR 2025, ECCV 2024), IRCDL 2025.</li>
 </ul>
