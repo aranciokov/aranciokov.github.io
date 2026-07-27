@@ -216,12 +216,13 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
       <li>"Riconoscimento di ingredienti e stima di macronutrienti da immagini bidimensionali di piatti: l’esperienza di Nutrition5k" (CV for Nutrition), along with Dr. Coluccia and Dr. Fiori, seminar at <a href="https://gioiadc.github.io/INDACO/">INDACO workshop</a> (2026), </li>
       <li>"Text-to-Metaverse Retrieval: A New Frontier in Search" at AI-DLDA summer school (2024), </li>
       <li>"Deep Learning for Multimedia understanding" at University of Udine (2023), </li>
+      <li>"Semantics for vision-and-language understanding" (PhD thesis) at University of Udine (2023),</li>
       <li>"Data-driven approaches for the Remaining Useful Life Estimation problem" at University of Bolzano (2022), </li>
       <li>"Learning video retrieval models with relevance-aware online mining" at University of Bolzano (2022), </li>
       <li>"Data-driven approaches for the remaining useful life estimation problem" at FBK (2022).</li>
     </ul>
   </li>
-  <li><em>Co-Supervision</em>: 7 Bachelor and 12 Master students of "Computer Science" (BSc or MSc) Degree <i class="fa fa-desktop" aria-hidden="true"></i> or "IoT, Big Data, and Machine Learning" BSc Degree <i class="fa fa-database" aria-hidden="true"></i> (or the old "IoT, Big Data, and Web" curriculum), "AI \& Cybersecurity" MSc Degree <i class="fa fa-bug" aria-hidden="true"></i> at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
+  <li><em>Co-Supervision</em>: 7 Bachelor and 12 Master students of<br/><i class="fa fa-desktop" aria-hidden="true"></i> "Computer Science" (BSc or MSc) Degree, <br/><i class="fa fa-database" aria-hidden="true"></i> "IoT, Big Data, and Machine Learning" BSc Degree (or the old "IoT, Big Data, and Web" curriculum), <br/><i class="fa fa-bug" aria-hidden="true"></i> "AI & Cybersecurity" MSc Degree <br/>at UniUD on topics related to Vision-and-Language, 3D Scenes Retrieval, AI for the Environment, and Predictive Maintenance.
     <ul>
       <li>Brotto Cristian, MSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-desktop" aria-hidden="true"></i> <em>Classificazione tassonomica di alberi in 3D</em>. 2026. (research paper WIP)</li>
       <li>Yanishevskyi Ivan, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Analysis and Prediction of European Air Traffic Redistribution Following Airspace Closures Using Machine Learning Techniques</em>. 2026.</li>
