@@ -208,6 +208,7 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   <li><em>Proceedings Chair</em>: <a href="https://ceur-ws.org/Vol-3365/">IRCDL 2023</a></li>
   <li><em>Organizer or Part of the Organization Committee</em>: 
     <ul>
+      <li>MUSTCV (former CV4Metaverse) at <a href="https://sites.google.com/view/mustcv-2026/">ECCV 2026</a></li>
       <li>CV4Metaverse at <a href="https://sites.google.com/view/cv4metaverse-2025">CVPR 2025</a> and <a href="https://sites.google.com/view/cv4metaverse-2024">ECCV 2024</a>, </li>
       <li><a href="https://ircdl2025.uniud.it/">IRCDL 2025</a>, </li>
       <li><a href="http://eqai.eu/">EQAI 2026, 2025, 2024, 2023</a>, </li>
@@ -230,14 +231,18 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Guest associate editor</em>: <a href="https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM_SI_Text_Multimedia_Retrieval-1708635324153.pdf">SI on Text-Multimedia Retrieval (ACM TOMM)</a></li>
   <li><em>Journal Reviewing</em>: IJCV, IEEE TMM, ACM TOMM, CVIU, IET Computer Vision, IEEE Trans Hum Mach Syst., Information Fusion</li>
-  <li><em>Conference Reviewing</em>: <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>BMVC 2026</b>, <b>ACM ICMR</b> 2025-2026, MMM 2025-2026, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
-  <li><em>Co-Supervision</em>: 4 Bachelor and 11 Master students of Computer Science Degree or IoT, Big Data, and ML Degree at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
+  <li><em>Conference Reviewing</em>: <b>AAAI 2027</b> <b>ACM MM</b> 2023-2026, <b>CVPR</b> 2025, <b>ICCV</b> 2025, <b>BMVC 2026</b>, <b>ACM ICMR</b> 2025-2026, MMM 2025-2027, <b>ECCV</b> 2024 (Outstanding Reviewer!), CCISP 2023, IRCDL 2023-2026, ICIAP 2021-2023, EMNLP 2021, ICPR 2020-2022.</li>
+  <li><em>Co-Supervision</em>: 7 Bachelor and 12 Master students of Computer Science Degree <i class="fa fa-desktop" aria-hidden="true"></i> or IoT, Big Data, and ML Degree <i class="fa fa-database" aria-hidden="true"></i> at UniUD on topics related to Video&Language, 3D Scenes Retrieval, and Predictive Maintenance.
     <ul>
+      <li>Brotto Cristian, MSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-desktop" aria-hidden="true"></i> <em>Classificazione tassonomica di alberi in 3D</em>. 2026. (research paper WIP)</li>
+      <li>Yanishevskyi Ivan, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Analysis and Prediction of European Air Traffic Redistribution Following Airspace Closures Using Machine Learning Techniques</em>. 2026.</li>
+      <li>Marcato Samuele, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Automating Crop Residue Estimation with Deep Learning: A Semantic Segmentation Approach</em>. 2026. (research paper WIP)</li>
+      <li>Del Bò Jacopo, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Machine Learning models for Smart Waste Management: predicting waste generation at household level</em>. 2026.</li>
       <li>Zaccaron Gianluca, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Allineamento Multimodale tra Testo e Oggetti 3D: Analisi Dettagliata di Metodi e Dataset in Letteratura</em>. 2025. </li>
       <li>Zampieri Pietro, Bsc <i class="fa-solid fa-graduation-cap"></i> <em>Stima della posa a sei gradi di libertà per veicoli a guida autonoma</em>. 2025. </li>
       <li>Dittaro Federico, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Artificial Intelligence for Precision Agriculture: Semantic Segmentation of Crop Fields Using Deep Learning</em>. 2025. </li>
-      <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025.</li>
-      <li>Fedrigo Mattia, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Automating Vegetation Cover Estimation with Deep Learning: A Transfer Learning-Based Semantic Segmentation Approach</em>. 2025.</li>
+      <li>Bazzana Lorenzo, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing Metaverse Retrieval Effectiveness through Hierarchical Room-Aware Representations</em>. 2025. (under review at Q1 journal)</li>
+      <li>Fedrigo Mattia, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Automating Vegetation Cover Estimation with Deep Learning: A Transfer Learning-Based Semantic Segmentation Approach</em>. 2025. (under review at Q1 journal)</li>
       <li>Lavarone Stefano, Msc <i class="fa-solid fa-graduation-cap"></i> <em>Design and Evaluation of a Multimodal Retrieval System on a Novel Dataset of Automatically Generated Virtual Museums</em>. 2025.</li>
       <li>Macrì Gianluca, MSc <i class="fa-solid fa-graduation-cap"></i> <em>IA per il retrieval di esibizioni d'arte multimediale per il Metaverso</em>. 2024. (published at <a href="https://doi.org/10.1145/3731715.3733358">ACM ICMR 2025</a>!)</li>
       <li>Gallegos Carvajal Ian Marco, MSc <i class="fa-solid fa-graduation-cap"></i> <em>Enhancing text-to-textured 3D mesh generation with training-free adaptation for textual-visual consistency using spatial constraints and quality assurance: a case study on Text2Room</em>. 2024.</li>
