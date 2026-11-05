@@ -10,14 +10,17 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
 
 <h3><span class="fa-solid fa-bullhorn fa-bounce"></span> News <span class="fa-solid fa-bullhorn fa-bounce"></span></h3>
 <ul>
+  <li>Paper just accepted at <b>ACM TOMM</b>!! Great job Lorenzo!</li>
+  <li>I'm spending a month at <b>MIT</b> at the <a href="https://beerylab.csail.mit.edu/">BeeryLab</a> for a research visit! <a href="https://beerylab.csail.mit.edu/images/gallerypic/group.jpg">[click for a lovely group pic]</a></li>
+  <li>Paper accepted at <b>CV4E Workshop (ECCV)</b>! <a href="https://openreview.net/forum?id=iMFCtuplMt">[pdf]</a> <a href="https://github.com/beatrice-portelli/CO-BASS">[code, data]</a></li>
   <li>We will be organizing the 5th edition of CV4Metaverse (now called <b>MUSTCV</b>) at <b>ECCV 2026</b>! <a href="https://sites.google.com/view/mustcv-2026/">[link]</a></li>
   <li>Paper accepted at <b>ACM TOMM</b>!! Great job Ali! <a href="https://dl.acm.org/doi/full/10.1145/3799427">[pdf]</a><a href="https://github.com/aranciokov/HiCALM">[code]</a></li>
   <li>I'll talk at the <a href="https://gioiadc.github.io/INDACO/">INDACO</a> workshop about the experience we had using AI and Vision for supporting the efforts of expert nutritionists!</li>
   <li>I was a lecturer for the "PyGreen – PYthon tools for the GREEN transition" winter school, organized below the UnITAfrica project!</li>
-  <li>one paper accepted at <a href="https://ircdl2026.unimore.it/">IRCDL 2026</a>! <a href="">[pdf soon]</a></li>
+  <li>one paper accepted at <a href="https://ircdl2026.unimore.it/">IRCDL 2026</a>! <a href="https://air.uniud.it/bitstream/11390/1341084/1/paper39.pdf">[pdf]</a></li>
   <li>one paper accepted at <b>Smart Agricultural Technology</b>!! <a href="https://www.sciencedirect.com/science/article/pii/S2772375525008986">[pdf]</a></li>
   <li>As in previous years, I'm part of the local organization committee for <a href="http://eqai.eu/">EQAI 2026 (European Summer School on Quantum AI)</a>!</li>
-  <li>I visited <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
+  <li>I visited for one week the <b>MIT</b> (under MIT GSF grant) and met Prof. Beery and her lab! Such a wonderful experience!</li>
   <li>I was an invited teacher for the <a href="https://training.itineris.cnr.it/en/categories/phds-and-masters/resource/artificial_intelligence_and_data_mining_methods_in_ecology/">Artificial intelligence and data mining methods in ecology</a> PhD course held within ITINERIS!</li>
   <li>one paper accepted at <b>IJDL</b>! <a href="https://link.springer.com/article/10.1007/s00799-025-00433-9">[pdf]</a></li>
   <li>two journal papers on multidisciplinary collaborations were recently accepted on <b><a href="https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2523737">Annals of GIS</a></b> and <b><a href="https://www.mdpi.com/2072-6643/17/13/2196">Nutrients</a></b>!!</li>
@@ -224,6 +227,8 @@ E-mail: falcon.alex 'at' spes.uniud.it / [Google Scholar](https://scholar.google
   </li>
   <li><em>Co-Supervision</em>: 7 Bachelor and 12 Master students of<br/><i class="fa fa-desktop" aria-hidden="true"></i> "Computer Science" (BSc or MSc) Degree, <br/><i class="fa fa-database" aria-hidden="true"></i> "IoT, Big Data, and Machine Learning" BSc Degree (or the old "IoT, Big Data, and Web" curriculum), <br/><i class="fa fa-bug" aria-hidden="true"></i> "AI & Cybersecurity" MSc Degree <br/>at UniUD on topics related to Vision-and-Language, 3D Scenes Retrieval, AI for the Environment, and Predictive Maintenance.
     <ul>
+      <li>Weijie Liu, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Applicazione di tecniche di machine learning per predire l'attenzione degli utenti in ambienti virtuali tridimensionali</em>. 2026.</li>
+      <li>Tufa Fabiano, MSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-desktop" aria-hidden="true"></i> <em>Previsione del rischio di incidenti stradali con la fauna selvatica in Friuli Venezia Giulia tramite apprendimento automatico</em>. 2026.</li>
       <li>Brotto Cristian, MSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-desktop" aria-hidden="true"></i> <em>Classificazione tassonomica di alberi in 3D</em>. 2026. (research paper WIP)</li>
       <li>Yanishevskyi Ivan, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Analysis and Prediction of European Air Traffic Redistribution Following Airspace Closures Using Machine Learning Techniques</em>. 2026.</li>
       <li>Marcato Samuele, BSc <i class="fa-solid fa-graduation-cap"></i> <i class="fa fa-database" aria-hidden="true"></i> <em>Automating Crop Residue Estimation with Deep Learning: A Semantic Segmentation Approach</em>. 2026. (research paper WIP)</li>
